@@ -1,0 +1,88 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 713px;
+		padding-bottom: 209px;
+		max-width: 1345px;
+	}
+
+	#pu2439
+	{
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 8.41%;
+		margin-left: 1.49%;
+	}
+
+	#u114-65
+	{
+		min-height: 361px;
+	}
+
+	#u4809-4
+	{
+		min-height: 613px;
+		margin-right: -10000px;
+		margin-top: 100px;
+		left: 227px;
+		width: 32.35%;
+	}
+
+	#widgetu4812
+	{
+		margin-right: -10000px;
+		margin-top: 123px;
+		margin-left: 100%;
+		left: -487px;
+	}
+
+	#u4828-17
+	{
+		background-image: url("../images/u4828-17.png");
+	}
+
+	#u4828-17:hover
+	{
+		background-image: url("../images/u4828-17-r.png");
+	}
+
+	#u4828-17:active
+	{
+		background-image: url("../images/u4828-17-m.png");
+	}
+
+	#widgetu4812.frm-sub-st #u4828-17
+	{
+		background-image: url("../images/u4828-17-fs.png");
+	}
+
+	.hidpi #u4828-17
+	{
+		background-image: url("../images/u4828-17_2x.png");
+	}
+
+	.hidpi #u4828-17:hover
+	{
+		background-image: url("../images/u4828-17-r_2x.png");
+	}
+
+	.hidpi #u4828-17:active
+	{
+		background-image: url("../images/u4828-17-m_2x.png");
+	}
+
+	.hidpi #widgetu4812.frm-sub-st #u4828-17
+	{
+		background-image: url("../images/u4828-17-fs_2x.png");
+	}
+
+
