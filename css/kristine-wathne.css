@@ -1,0 +1,170 @@
+.version.kristine_wathne /* version checker */
+{
+	color: #000006;
+	background-color: #207B7C;
+}
+
+#page
+{
+	background-color: transparent;
+	margin-right: auto;
+	background-image: none;
+	border-width: 0px;
+	width: 100%;
+	z-index: 1;
+	margin-left: auto;
+	border-color: #000000;
+}
+
+#u4651
+{
+	z-index: 72;
+	position: relative;
+	width: 113px;
+	margin-right: -10000px;
+}
+
+#u114-69
+{
+	left: 20px;
+	z-index: 2;
+	position: relative;
+	width: 187px;
+	margin-right: -10000px;
+	margin-top: 100px;
+}
+
+#u2439
+{
+	z-index: 71;
+	position: relative;
+	min-height: 35px;
+	width: 35px;
+	margin-right: -10000px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 1295px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 504px;
+		padding-bottom: 418px;
+		max-width: 1345px;
+	}
+
+	#pu2439
+	{
+		margin-right: -10000px;
+		margin-top: 20px;
+		width: 8.41%;
+		margin-left: 1.49%;
+	}
+
+	#u114-69
+	{
+		min-height: 404px;
+	}
+
+}
+
+@media (min-width: 1001px) and (max-width: 1294px)
+{
+	#muse_css_mq
+	{
+		background-color: #00050e;
+	}
+
+	#bp_1294.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 491px;
+		padding-bottom: 510px;
+		max-width: 1294px;
+	}
+
+	#u4651
+	{
+		margin-top: 20px;
+		left: 1.47%;
+	}
+
+	#u114-69
+	{
+		min-height: 270px;
+	}
+
+	#u2439
+	{
+		margin-top: 406px;
+		left: 1.55%;
+	}
+
+}
+
+@media (max-width: 1000px)
+{
+	#muse_css_mq
+	{
+		background-color: #0003e8;
+	}
+
+	#bp_1000.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 491px;
+		padding-bottom: 510px;
+		max-width: 1294px;
+	}
+
+	#u4651
+	{
+		margin-top: 20px;
+		left: 1.5%;
+	}
+
+	#u114-69
+	{
+		min-height: 270px;
+	}
+
+	#u2439
+	{
+		margin-top: 406px;
+		left: 2%;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+}
+

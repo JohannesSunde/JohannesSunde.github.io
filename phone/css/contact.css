@@ -1,37 +1,42 @@
 .version.contact /* version checker */
 {
-	color: #0000E4;
-	background-color: #CC40E5;
+	color: #000018;
+	background-color: #F81306;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 435px;
+	min-height: 499px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 135px;
+	padding-bottom: 71px;
 	width: 100%;
 	max-width: 380px;
 }
 
 #u3079
 {
-	z-index: 8;
+	z-index: 14;
 	width: 100px;
 	position: relative;
 	margin-right: -10000px;
 }
 
+#pu4357
+{
+	margin-right: -10000px;
+	width: 92.37%;
+}
+
 #u4357
 {
-	z-index: 10;
+	z-index: 16;
 	height: 71px;
 	position: relative;
-	margin-right: -10000px;
-	width: 26.32%;
+	width: 28.5%;
 }
 
 .ie #u4357
@@ -42,20 +47,14 @@
 	filter: alpha(opacity=1);
 }
 
-#pu8175
-{
-	margin-right: -10000px;
-	margin-top: 135px;
-	width: 22.11%;
-	margin-left: 38.95%;
-}
-
 #u8175
 {
 	z-index: 2;
 	width: 84px;
 	background-color: transparent;
+	margin-top: 64px;
 	position: relative;
+	margin-left: 42.17%;
 }
 
 #u8185
@@ -65,6 +64,7 @@
 	background-color: transparent;
 	margin-top: 24px;
 	position: relative;
+	margin-left: 42.17%;
 }
 
 #u8193
@@ -74,6 +74,20 @@
 	background-color: transparent;
 	margin-top: 24px;
 	position: relative;
+	margin-left: 42.17%;
+}
+
+#u10143-6
+{
+	z-index: 8;
+	min-height: 19px;
+	background-color: transparent;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	margin-top: 45px;
+	position: relative;
+	width: 91.46%;
+	margin-left: 8.55%;
 }
 
 #muse_css_mq,.html
@@ -86,6 +100,8 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
+
 
 
 

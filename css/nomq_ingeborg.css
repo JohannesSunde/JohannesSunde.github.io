@@ -10,7 +10,8 @@
 
 	#page
 	{
-		padding-bottom: 448px;
+		min-height: 504px;
+		padding-bottom: 418px;
 		max-width: 1345px;
 	}
 
@@ -22,9 +23,9 @@
 		margin-left: 1.49%;
 	}
 
-	#u114-65
+	#u114-69
 	{
-		min-height: 361px;
+		min-height: 404px;
 	}
 
 

@@ -10,7 +10,8 @@
 
 	#page
 	{
-		padding-bottom: 448px;
+		min-height: 903px;
+		padding-bottom: 19px;
 		max-width: 1345px;
 	}
 
@@ -22,9 +23,56 @@
 		margin-left: 1.49%;
 	}
 
-	#u114-65
+	#u114-69
 	{
-		min-height: 361px;
+		min-height: 404px;
+	}
+
+	#slideshowu9481
+	{
+		height: 806px;
+	}
+
+	#u9484,#u9497,#u9891,#u9933,#u9975,#u10017,#u10059,#u10101
+	{
+		width: 1053px;
+		height: 711px;
+	}
+
+	#u9497_img,#u9891_img,#u9933_img,#u9975_img,#u10017_img,#u10059_img,#u10101_img
+	{
+		padding: 14px 14px 15px 15px;
+	}
+
+	#u9519
+	{
+		width: 985px;
+		top: 711px;
+	}
+
+	#u9525-4,#u9915-4,#u9957-4,#u9999-4,#u10041-4,#u10083-4,#u10125-4
+	{
+		width: 965px;
+		min-height: 75px;
+	}
+
+	#u9500-4
+	{
+		top: 711px;
+		left: 985px;
+	}
+
+	#u9517-4
+	{
+		width: 507px;
+		min-height: 691px;
+	}
+
+	#u9516-4
+	{
+		width: 506px;
+		min-height: 691px;
+		left: 527px;
 	}
 
 
