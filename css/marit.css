@@ -1,12 +1,11 @@
 .version.marit /* version checker */
 {
-	color: #0000F1;
-	background-color: #32B810;
+	color: #00001D;
+	background-color: #D66FD5;
 }
 
 #page
 {
-	min-height: 474px;
 	background-color: transparent;
 	margin-right: auto;
 	background-image: none;
@@ -44,6 +43,217 @@
 	margin-right: -10000px;
 }
 
+#slideshowu7945
+{
+	left: 227px;
+	z-index: 70;
+	position: relative;
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 116px;
+	height: 806px;
+}
+
+#u7964
+{
+	position: absolute;
+	width: 1053px;
+	background-color: transparent;
+	height: 711px;
+}
+
+#u7964popup
+{
+	z-index: 71;
+}
+
+#u7971
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px;
+	width: 1053px;
+	z-index: 72;
+	border-color: transparent;
+	height: 711px;
+}
+
+#u8134
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px;
+	width: 1053px;
+	z-index: 74;
+	border-color: transparent;
+	height: 711px;
+}
+
+#u8154
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px;
+	width: 1053px;
+	z-index: 76;
+	border-color: transparent;
+	height: 711px;
+}
+
+#u7971_img,#u8134_img,#u8154_img
+{
+	padding: 10px 14px 10px 15px;
+}
+
+#u7946
+{
+	width: 985px;
+	top: 711px;
+	background-color: transparent;
+	position: absolute;
+}
+
+#u7946popup
+{
+	z-index: 78;
+}
+
+#u7950-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 79;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	min-height: 75px;
+	width: 965px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u8146-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 83;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	min-height: 75px;
+	width: 965px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u8166-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 87;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	min-height: 75px;
+	width: 965px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u7975-4
+{
+	left: 985px;
+	line-height: 20px;
+	position: absolute;
+	border-width: 0px;
+	top: 711px;
+	border-color: transparent;
+	padding: 10px;
+	background-color: #FFFFFF;
+	min-height: 20px;
+	width: 48px;
+	text-align: center;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u7975-4popup
+{
+	z-index: 91;
+}
+
+#u7974-4
+{
+	min-height: 691px;
+	opacity: 0;
+	line-height: 20px;
+	position: absolute;
+	border-width: 0px;
+	filter: alpha(opacity=0);
+	border-color: transparent;
+	padding: 10px;
+	background-color: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	width: 507px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u7974-4popup
+{
+	z-index: 95;
+}
+
+#u7975,#u7974
+{
+	color: #999999;
+}
+
+#u7962-4
+{
+	min-height: 691px;
+	color: #999999;
+	opacity: 0;
+	line-height: 20px;
+	position: absolute;
+	border-width: 0px;
+	filter: alpha(opacity=0);
+	border-color: transparent;
+	padding: 10px;
+	left: 527px;
+	background-color: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	width: 506px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u7962-4popup
+{
+	z-index: 99;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
 .html
 {
 	background-color: #FFFFFF;
@@ -68,7 +278,8 @@ body
 
 	#page
 	{
-		padding-bottom: 448px;
+		min-height: 903px;
+		padding-bottom: 19px;
 		max-width: 1345px;
 	}
 
@@ -101,7 +312,8 @@ body
 
 	#page
 	{
-		padding-bottom: 527px;
+		min-height: 906px;
+		padding-bottom: 95px;
 		max-width: 1294px;
 	}
 
@@ -138,8 +350,9 @@ body
 
 	#page
 	{
-		padding-bottom: 527px;
-		max-width: 1294px;
+		min-height: 906px;
+		padding-bottom: 95px;
+		max-width: 1000px;
 	}
 
 	#u4651

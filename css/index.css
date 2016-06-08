@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #B66AD6;
+	color: #0000FC;
+	background-color: #F02A3C;
 }
 
 #page
@@ -58,7 +58,7 @@
 	z-index: 71;
 }
 
-#u5781
+#u7180
 {
 	background-color: transparent;
 	margin-right: -10000px;
@@ -68,7 +68,7 @@
 	border-color: transparent;
 }
 
-#u5783
+#u7608
 {
 	background-color: transparent;
 	margin-right: -10000px;
@@ -78,13 +78,33 @@
 	border-color: transparent;
 }
 
-#u5779
+#u7650
 {
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
 	border-width: 0px;
 	z-index: 76;
+	border-color: transparent;
+}
+
+#u7692
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px;
+	z-index: 78;
+	border-color: transparent;
+}
+
+#u7734
+{
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px;
+	z-index: 80;
 	border-color: transparent;
 }
 
@@ -96,25 +116,10 @@
 
 #u5774popup
 {
-	z-index: 78;
+	z-index: 82;
 }
 
-#u5775-4
-{
-	color: #999999;
-	line-height: 20px;
-	position: relative;
-	border-width: 0px;
-	z-index: 79;
-	border-color: transparent;
-	padding: 10px;
-	margin-right: -10000px;
-	text-align: left;
-	background-color: #FFFFFF;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-}
-
-#u5777-4
+#u7206-4
 {
 	color: #999999;
 	line-height: 20px;
@@ -129,13 +134,58 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u5776-4
+#u7632-4
 {
 	color: #999999;
 	line-height: 20px;
 	position: relative;
 	border-width: 0px;
 	z-index: 87;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u7674-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 91;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u7716-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 95;
+	border-color: transparent;
+	padding: 10px;
+	margin-right: -10000px;
+	text-align: left;
+	background-color: #FFFFFF;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u7758-4
+{
+	color: #999999;
+	line-height: 20px;
+	position: relative;
+	border-width: 0px;
+	z-index: 99;
 	border-color: transparent;
 	padding: 10px;
 	margin-right: -10000px;
@@ -160,7 +210,7 @@
 
 #u5792-4popup
 {
-	z-index: 91;
+	z-index: 103;
 }
 
 #u5772-4
@@ -180,7 +230,7 @@
 
 #u5772-4popup
 {
-	z-index: 95;
+	z-index: 107;
 }
 
 #u5792,#u5772
@@ -206,7 +256,7 @@
 
 #u5793-4popup
 {
-	z-index: 99;
+	z-index: 111;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton
@@ -266,16 +316,15 @@ body
 		height: 806px;
 	}
 
-	#u5778,#u5781,#u5783,#u5779
+	#u5778,#u7180,#u7608,#u7650,#u7692,#u7734
 	{
 		width: 1053px;
 		height: 711px;
 	}
 
-	#u5781_img,#u5783_img,#u5779_img
+	#u7180_img,#u7608_img,#u7650_img,#u7692_img,#u7734_img
 	{
-		margin-left: -8px;
-		margin-right: -5px;
+		padding: 10px 14px 10px 15px;
 	}
 
 	#u5774
@@ -284,7 +333,7 @@ body
 		top: 711px;
 	}
 
-	#u5775-4,#u5777-4,#u5776-4
+	#u7206-4,#u7632-4,#u7674-4,#u7716-4,#u7758-4
 	{
 		width: 965px;
 		min-height: 75px;
@@ -352,16 +401,10 @@ body
 		height: 650px;
 	}
 
-	#u5778,#u5781,#u5783,#u5779
+	#u5778,#u7180,#u7608,#u7650,#u7692,#u7734
 	{
 		width: 772px;
 		height: 521px;
-	}
-
-	#u5781_img,#u5783_img,#u5779_img
-	{
-		margin-left: -6px;
-		margin-right: -3px;
 	}
 
 	#u5774
@@ -370,7 +413,7 @@ body
 		top: 521px;
 	}
 
-	#u5775-4,#u5777-4,#u5776-4
+	#u7206-4,#u7632-4,#u7674-4,#u7716-4,#u7758-4
 	{
 		width: 684px;
 		min-height: 109px;
@@ -438,16 +481,10 @@ body
 		height: 751px;
 	}
 
-	#u5778,#u5781,#u5783,#u5779
+	#u5778,#u7180,#u7608,#u7650,#u7692,#u7734
 	{
 		width: 573px;
 		height: 387px;
-	}
-
-	#u5781_img,#u5783_img,#u5779_img
-	{
-		margin-left: -4px;
-		margin-right: -3px;
 	}
 
 	#u5774
@@ -456,7 +493,7 @@ body
 		top: 387px;
 	}
 
-	#u5775-4,#u5777-4,#u5776-4
+	#u7206-4,#u7632-4,#u7674-4,#u7716-4,#u7758-4
 	{
 		width: 430px;
 		min-height: 344px;

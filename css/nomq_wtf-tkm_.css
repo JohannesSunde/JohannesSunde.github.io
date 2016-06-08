@@ -33,16 +33,15 @@
 		height: 806px;
 	}
 
-	#u6078,#u6079,#u6083,#u6081
+	#u6078,#u6081,#u7818,#u7860,#u7902
 	{
 		width: 1053px;
 		height: 711px;
 	}
 
-	#u6079_img,#u6083_img,#u6081_img
+	#u6081_img,#u7818_img,#u7860_img,#u7902_img
 	{
-		margin-left: -8px;
-		margin-right: -5px;
+		padding: 10px 14px 10px 15px;
 	}
 
 	#u6064
@@ -51,7 +50,7 @@
 		top: 711px;
 	}
 
-	#u6066-4,#u6067-4,#u6065-4
+	#u6065-4,#u7842-4,#u7884-4,#u7926-4
 	{
 		width: 965px;
 		min-height: 75px;

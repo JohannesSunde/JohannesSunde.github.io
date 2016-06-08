@@ -33,16 +33,15 @@
 		height: 806px;
 	}
 
-	#u5778,#u5781,#u5783,#u5779
+	#u5778,#u7180,#u7608,#u7650,#u7692,#u7734
 	{
 		width: 1053px;
 		height: 711px;
 	}
 
-	#u5781_img,#u5783_img,#u5779_img
+	#u7180_img,#u7608_img,#u7650_img,#u7692_img,#u7734_img
 	{
-		margin-left: -8px;
-		margin-right: -5px;
+		padding: 10px 14px 10px 15px;
 	}
 
 	#u5774
@@ -51,7 +50,7 @@
 		top: 711px;
 	}
 
-	#u5775-4,#u5777-4,#u5776-4
+	#u7206-4,#u7632-4,#u7674-4,#u7716-4,#u7758-4
 	{
 		width: 965px;
 		min-height: 75px;

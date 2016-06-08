@@ -10,7 +10,8 @@
 
 	#page
 	{
-		padding-bottom: 448px;
+		min-height: 903px;
+		padding-bottom: 19px;
 		max-width: 1345px;
 	}
 
