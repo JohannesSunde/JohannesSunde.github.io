@@ -3,31 +3,34 @@
 	background-color: transparent;
 }
 
-#u114-69
+#u114-67
 {
 	text-align: left;
 	background-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u114-29,#u114-40
+#u114-25,#u114-36
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u114-62,#u114-63,#u114-67
+#u114-60,#u114-61,#u114-65
 {
 	font-weight: bold;
 }
 
-#u2439
+#u114-59,#u114-64
 {
-	border-width: 0px;
-	background-color: transparent;
-	border-color: transparent;
+	font-weight: normal;
 }
 
-
+#u2439
+{
+	border-color: transparent;
+	border-width: 0px;
+	background-color: transparent;
+}
 
 
 

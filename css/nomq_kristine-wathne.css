@@ -10,8 +10,8 @@
 
 	#page
 	{
-		min-height: 504px;
-		padding-bottom: 418px;
+		min-height: 903px;
+		padding-bottom: 19px;
 		max-width: 1345px;
 	}
 
@@ -23,9 +23,62 @@
 		margin-left: 1.49%;
 	}
 
-	#u114-69
+	#u114-67
 	{
-		min-height: 404px;
+		min-height: 537px;
+		margin-top: 116px;
+	}
+
+	#slideshowu12294
+	{
+		height: 806px;
+	}
+
+	#u12299,#u12300,#u12431
+	{
+		width: 1053px;
+		height: 711px;
+	}
+
+	#u12300_img,#u12431_img
+	{
+		padding: 10px 14px 10px 15px;
+	}
+
+	#u12295
+	{
+		width: 985px;
+		top: 711px;
+	}
+
+	#u12296-4,#u12455-4
+	{
+		width: 965px;
+		min-height: 75px;
+	}
+
+	#u12301-4
+	{
+		top: 711px;
+		left: 985px;
+	}
+
+	#u12306-4
+	{
+		width: 507px;
+		min-height: 691px;
+	}
+
+	#u12307-4
+	{
+		width: 506px;
+		min-height: 691px;
+		left: 527px;
+	}
+
+	body
+	{
+		padding-top: 20px;
 	}
 
 

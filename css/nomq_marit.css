@@ -23,9 +23,10 @@
 		margin-left: 1.49%;
 	}
 
-	#u114-69
+	#u114-67
 	{
-		min-height: 404px;
+		min-height: 537px;
+		margin-top: 116px;
 	}
 
 	#slideshowu8237
@@ -73,6 +74,11 @@
 		width: 506px;
 		min-height: 691px;
 		left: 527px;
+	}
+
+	body
+	{
+		padding-top: 20px;
 	}
 
 

@@ -23,23 +23,24 @@
 		margin-left: 1.49%;
 	}
 
-	#u114-69
+	#u114-67
 	{
-		min-height: 404px;
+		min-height: 537px;
+		margin-top: 116px;
 	}
 
 	#slideshowu8781
 	{
-		height: 806px;
+		height: 851px;
 	}
 
-	#u8784,#u8791,#u9229,#u9271,#u9313,#u9355,#u9397,#u9439
+	#u8784,#u13634,#u13827,#u13869,#u13911,#u13953,#u13995,#u14037
 	{
 		width: 1053px;
 		height: 711px;
 	}
 
-	#u8791_img,#u9229_img,#u9271_img,#u9313_img,#u9355_img,#u9397_img,#u9439_img
+	#u13634_img,#u13827_img,#u13869_img,#u13911_img,#u13953_img,#u13995_img,#u14037_img
 	{
 		padding: 14px 14px 15px 15px;
 	}
@@ -50,10 +51,10 @@
 		top: 711px;
 	}
 
-	#u8798-4,#u9253-4,#u9295-4,#u9337-4,#u9379-4,#u9421-4,#u9463-4
+	#u13658-8,#u13851-8,#u13893-8,#u13935-8,#u13977-8,#u14019-8,#u14061-8
 	{
 		width: 965px;
-		min-height: 75px;
+		min-height: 120px;
 	}
 
 	#u8782-4
@@ -73,6 +74,11 @@
 		width: 506px;
 		min-height: 691px;
 		left: 527px;
+	}
+
+	body
+	{
+		padding-top: 20px;
 	}
 
 
