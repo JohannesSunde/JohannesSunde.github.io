@@ -5,8 +5,8 @@
 
 #u114-67
 {
-	text-align: left;
 	background-color: transparent;
+	text-align: left;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
@@ -25,11 +25,11 @@
 	font-weight: normal;
 }
 
-#u2439
+#u2439,#u14103
 {
-	border-color: transparent;
 	border-width: 0px;
 	background-color: transparent;
+	border-color: transparent;
 }
 
 

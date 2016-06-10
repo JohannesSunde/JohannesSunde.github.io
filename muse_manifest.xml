@@ -1,32 +1,32 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1465509560544">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1465545874363">
   <folder name="css">
     <file name="site_global.css" crc="457258267"/>
-    <file name="master_a-mal.css" crc="436417909" ref="index:contact:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
+    <file name="master_a-mal.css" crc="4100299610" ref="index:contact:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
     <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:contact:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="index.css" crc="3899594936" ref="index"/>
-    <file name="nomq_index.css" crc="4289779899" ref="index"/>
-    <file name="contact.css" crc="251593003" ref="contact"/>
-    <file name="nomq_contact.css" crc="3946671995" ref="contact"/>
-    <file name="l_nn_-sierru.css" crc="294070912" ref="lønn,-sierru"/>
-    <file name="nomq_l_nn_-sierru.css" crc="164819529" ref="lønn,-sierru"/>
-    <file name="fredrik-lund.css" crc="4291383410" ref="fredrik-lund"/>
-    <file name="nomq_fredrik-lund.css" crc="327159239" ref="fredrik-lund"/>
-    <file name="fredrik-justnes.css" crc="190276675" ref="fredrik-justnes"/>
-    <file name="nomq_fredrik-justnes.css" crc="4111837334" ref="fredrik-justnes"/>
-    <file name="matauk.css" crc="21762849" ref="matauk"/>
-    <file name="nomq_matauk.css" crc="28908902" ref="matauk"/>
-    <file name="ambassad_ren.css" crc="3782786274" ref="ambassadøren"/>
-    <file name="nomq_ambassad_ren.css" crc="4246458945" ref="ambassadøren"/>
-    <file name="marit.css" crc="94312057" ref="marit"/>
-    <file name="nomq_marit.css" crc="3988389182" ref="marit"/>
-    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4018491313" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="3952003809" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="wtf-tkm_.css" crc="3766139200" ref="wtf-tkm!"/>
-    <file name="nomq_wtf-tkm_.css" crc="3919121980" ref="wtf-tkm!"/>
-    <file name="kristine-wathne.css" crc="3888750542" ref="kristine-wathne"/>
-    <file name="nomq_kristine-wathne.css" crc="336295655" ref="kristine-wathne"/>
-    <file name="ici-ou-ailleurs.css" crc="289201582" ref="ici-ou-ailleurs"/>
-    <file name="nomq_ici-ou-ailleurs.css" crc="3892858637" ref="ici-ou-ailleurs"/>
+    <file name="index.css" crc="505279801" ref="index"/>
+    <file name="nomq_index.css" crc="4103404958" ref="index"/>
+    <file name="contact.css" crc="3868663826" ref="contact"/>
+    <file name="nomq_contact.css" crc="350839831" ref="contact"/>
+    <file name="l_nn_-sierru.css" crc="62577455" ref="lønn,-sierru"/>
+    <file name="nomq_l_nn_-sierru.css" crc="3858164673" ref="lønn,-sierru"/>
+    <file name="fredrik-lund.css" crc="359002540" ref="fredrik-lund"/>
+    <file name="nomq_fredrik-lund.css" crc="4077808348" ref="fredrik-lund"/>
+    <file name="fredrik-justnes.css" crc="222489421" ref="fredrik-justnes"/>
+    <file name="nomq_fredrik-justnes.css" crc="362532749" ref="fredrik-justnes"/>
+    <file name="matauk.css" crc="4111849311" ref="matauk"/>
+    <file name="nomq_matauk.css" crc="273793658" ref="matauk"/>
+    <file name="ambassad_ren.css" crc="4031250068" ref="ambassadøren"/>
+    <file name="nomq_ambassad_ren.css" crc="3938215585" ref="ambassadøren"/>
+    <file name="marit.css" crc="109847236" ref="marit"/>
+    <file name="nomq_marit.css" crc="4057608905" ref="marit"/>
+    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4270897209" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="373671748" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="wtf-tkm_.css" crc="61108822" ref="wtf-tkm!"/>
+    <file name="nomq_wtf-tkm_.css" crc="287242946" ref="wtf-tkm!"/>
+    <file name="kristine-wathne.css" crc="3890708989" ref="kristine-wathne"/>
+    <file name="nomq_kristine-wathne.css" crc="4095610173" ref="kristine-wathne"/>
+    <file name="ici-ou-ailleurs.css" crc="396727782" ref="ici-ou-ailleurs"/>
+    <file name="nomq_ici-ou-ailleurs.css" crc="4200545838" ref="ici-ou-ailleurs"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>contact:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:contact:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
@@ -41,7 +41,7 @@
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:contact:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4070288207" ref="phone>index:index:fredrik-justnes"/>
+    <file name="favicon.ico" crc="4070288207" ref="phone>index:index"/>
     <file name="jlsf identity-01-crop-u3079.png" crc="26639455" ref="phone>index:phone>contact"/>
     <file name="jlsf identity-01-crop-u3079_2x.png" crc="213907803" ref="phone>index:phone>contact"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:contact:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
@@ -51,66 +51,66 @@
     <file name="instagram2.png" crc="3801818138" seo="true" ref="phone>contact"/>
     <file name="mail.png" crc="436541635" seo="true" ref="phone>contact"/>
     <file name="telefon.png" crc="3988006372" seo="true" ref="phone>contact"/>
-    <file name="juni2016.jpg" crc="22670298" seo="true" ref="index"/>
-    <file name="juni2016_2x.jpg" crc="43025933" seo="true" ref="index"/>
-    <file name="juni20162.jpg" crc="39181423" seo="true" ref="index"/>
-    <file name="juni20162_2x.jpg" crc="536861161" seo="true" ref="index"/>
-    <file name="juni20163.jpg" crc="3848410644" seo="true" ref="index"/>
-    <file name="juni20163_2x.jpg" crc="107285563" seo="true" ref="index"/>
-    <file name="juni20164.jpg" crc="4221512583" seo="true" ref="index"/>
-    <file name="juni20164_2x.jpg" crc="8193814" seo="true" ref="index"/>
-    <file name="juni20165.jpg" crc="165675432" seo="true" ref="index"/>
-    <file name="juni20165_2x.jpg" crc="4155624759" seo="true" ref="index"/>
-    <file name="juni2016773x521.jpg" crc="151289579" seo="true" ref="index"/>
-    <file name="juni2016773x521_2x.jpg" crc="372645163" seo="true" ref="index"/>
-    <file name="juni20162773x521.jpg" crc="3780550044" seo="true" ref="index"/>
-    <file name="juni20162773x521_2x.jpg" crc="4985124" seo="true" ref="index"/>
-    <file name="juni20163773x521.jpg" crc="512544275" seo="true" ref="index"/>
-    <file name="juni20163773x521_2x.jpg" crc="4291436884" seo="true" ref="index"/>
-    <file name="juni20164773x521.jpg" crc="501670072" seo="true" ref="index"/>
-    <file name="juni20164773x521_2x.jpg" crc="222227445" seo="true" ref="index"/>
-    <file name="juni20165773x521.jpg" crc="4169498425" seo="true" ref="index"/>
-    <file name="juni20165773x521_2x.jpg" crc="131264467" seo="true" ref="index"/>
-    <file name="juni2016574x387.jpg" crc="4049341042" seo="true" ref="index"/>
-    <file name="juni2016574x387_2x.jpg" crc="426473001" seo="true" ref="index"/>
-    <file name="juni20162574x387.jpg" crc="279920513" seo="true" ref="index"/>
-    <file name="juni20162574x387_2x.jpg" crc="304566689" seo="true" ref="index"/>
-    <file name="juni20163574x387.jpg" crc="3872678968" seo="true" ref="index"/>
-    <file name="juni20163574x387_2x.jpg" crc="3818268451" seo="true" ref="index"/>
-    <file name="juni20164574x387.jpg" crc="188804771" seo="true" ref="index"/>
-    <file name="juni20164574x387_2x.jpg" crc="3844351850" seo="true" ref="index"/>
-    <file name="juni20165574x387.jpg" crc="214707619" seo="true" ref="index"/>
-    <file name="juni20165574x387_2x.jpg" crc="4237439329" seo="true" ref="index"/>
-    <file name="juni20166.jpg" crc="3971591844" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20166_2x.jpg" crc="347694586" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167.jpg" crc="4013517472" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167_2x.jpg" crc="85422352" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168.jpg" crc="3908294584" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168_2x.jpg" crc="4069408153" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169.jpg" crc="320574464" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169_2x.jpg" crc="4099200992" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20166773x521.jpg" crc="468369888" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20166773x521_2x.jpg" crc="3807783481" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167773x521.jpg" crc="4256833336" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167773x521_2x.jpg" crc="4043711387" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168773x521.jpg" crc="260121133" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168773x521_2x.jpg" crc="3955509596" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169773x521.jpg" crc="4188073177" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169773x521_2x.jpg" crc="4095219086" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20166574x387.jpg" crc="4211887171" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20166574x387_2x.jpg" crc="233219591" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167574x387.jpg" crc="413504430" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20167574x387_2x.jpg" crc="4176579792" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168574x387.jpg" crc="4091490850" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20168574x387_2x.jpg" crc="394024508" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169574x387.jpg" crc="3767656459" seo="true" ref="wtf-tkm!"/>
-    <file name="juni20169574x387_2x.jpg" crc="3972308793" seo="true" ref="wtf-tkm!"/>
-    <file name="juni201610.jpg" crc="528431040" seo="true" ref="marit"/>
-    <file name="juni201610_2x.jpg" crc="265373897" seo="true" ref="marit"/>
-    <file name="juni201611.jpg" crc="137850428" seo="true" ref="marit"/>
-    <file name="juni201611_2x.jpg" crc="4264044422" seo="true" ref="marit"/>
-    <file name="juni201612.jpg" crc="4067201233" seo="true" ref="marit"/>
-    <file name="juni201612_2x.jpg" crc="518611764" seo="true" ref="marit"/>
+    <file name="juni2016.jpg" crc="89942166" seo="true" ref="index"/>
+    <file name="juni2016_2x.jpg" crc="36382703" seo="true" ref="index"/>
+    <file name="juni20162.jpg" crc="3840893651" seo="true" ref="index"/>
+    <file name="juni20162_2x.jpg" crc="4162609774" seo="true" ref="index"/>
+    <file name="juni20163.jpg" crc="4169651237" seo="true" ref="index"/>
+    <file name="juni20163_2x.jpg" crc="4036187452" seo="true" ref="index"/>
+    <file name="juni20164.jpg" crc="399031445" seo="true" ref="index"/>
+    <file name="juni20164_2x.jpg" crc="353825822" seo="true" ref="index"/>
+    <file name="juni20165.jpg" crc="3879909243" seo="true" ref="index"/>
+    <file name="juni20165_2x.jpg" crc="4166654345" seo="true" ref="index"/>
+    <file name="juni2016773x521.jpg" crc="4022826355" seo="true" ref="index"/>
+    <file name="juni2016773x521_2x.jpg" crc="332067820" seo="true" ref="index"/>
+    <file name="juni20162773x521.jpg" crc="313048659" seo="true" ref="index"/>
+    <file name="juni20162773x521_2x.jpg" crc="456475695" seo="true" ref="index"/>
+    <file name="juni20163773x521.jpg" crc="280685033" seo="true" ref="index"/>
+    <file name="juni20163773x521_2x.jpg" crc="3764799253" seo="true" ref="index"/>
+    <file name="juni20164773x521.jpg" crc="4118335907" seo="true" ref="index"/>
+    <file name="juni20164773x521_2x.jpg" crc="3853779388" seo="true" ref="index"/>
+    <file name="juni20165773x521.jpg" crc="230673154" seo="true" ref="index"/>
+    <file name="juni20165773x521_2x.jpg" crc="4149121329" seo="true" ref="index"/>
+    <file name="juni2016574x387.jpg" crc="470755919" seo="true" ref="index"/>
+    <file name="juni2016574x387_2x.jpg" crc="235800385" seo="true" ref="index"/>
+    <file name="juni20162574x387.jpg" crc="4020868748" seo="true" ref="index"/>
+    <file name="juni20162574x387_2x.jpg" crc="3764775426" seo="true" ref="index"/>
+    <file name="juni20163574x387.jpg" crc="102798459" seo="true" ref="index"/>
+    <file name="juni20163574x387_2x.jpg" crc="3768865816" seo="true" ref="index"/>
+    <file name="juni20164574x387.jpg" crc="3989423133" seo="true" ref="index"/>
+    <file name="juni20164574x387_2x.jpg" crc="368458358" seo="true" ref="index"/>
+    <file name="juni20165574x387.jpg" crc="4071027341" seo="true" ref="index"/>
+    <file name="juni20165574x387_2x.jpg" crc="469068549" seo="true" ref="index"/>
+    <file name="juni20166.jpg" crc="251751242" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20166_2x.jpg" crc="234449568" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167.jpg" crc="338062611" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167_2x.jpg" crc="199358287" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168.jpg" crc="160169847" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168_2x.jpg" crc="198130586" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169.jpg" crc="529344811" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169_2x.jpg" crc="63371358" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20166773x521.jpg" crc="3805252089" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20166773x521_2x.jpg" crc="4204439701" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167773x521.jpg" crc="4005323002" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167773x521_2x.jpg" crc="4164679155" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168773x521.jpg" crc="120887396" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168773x521_2x.jpg" crc="4253386348" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169773x521.jpg" crc="93885885" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169773x521_2x.jpg" crc="167771983" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20166574x387.jpg" crc="4261480366" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20166574x387_2x.jpg" crc="4214746096" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167574x387.jpg" crc="293135251" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20167574x387_2x.jpg" crc="122822266" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168574x387.jpg" crc="4078940881" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20168574x387_2x.jpg" crc="4162457942" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169574x387.jpg" crc="372472854" seo="true" ref="wtf-tkm!"/>
+    <file name="juni20169574x387_2x.jpg" crc="3874352009" seo="true" ref="wtf-tkm!"/>
+    <file name="juni201610.jpg" crc="4148234024" seo="true" ref="marit"/>
+    <file name="juni201610_2x.jpg" crc="4195409298" seo="true" ref="marit"/>
+    <file name="juni201611.jpg" crc="525653529" seo="true" ref="marit"/>
+    <file name="juni201611_2x.jpg" crc="304038730" seo="true" ref="marit"/>
+    <file name="juni201612.jpg" crc="4290423652" seo="true" ref="marit"/>
+    <file name="juni201612_2x.jpg" crc="67599042" seo="true" ref="marit"/>
     <file name="mobilkarusell-1.jpg" crc="3999344620" seo="true" ref="phone>index"/>
     <file name="mobilkarusell-2.jpg" crc="4216307483" seo="true" ref="phone>index"/>
     <file name="mobilkarusell-3.jpg" crc="4150177438" seo="true" ref="phone>index"/>
@@ -233,126 +233,126 @@
     <file name="ambassadøren-6581x387_2x.jpg" crc="3919729734" seo="true" ref="ambassadøren"/>
     <file name="ambassadøren-7581x387.jpg" crc="4138766955" seo="true" ref="ambassadøren"/>
     <file name="ambassadøren-7581x387_2x.jpg" crc="74161048" seo="true" ref="ambassadøren"/>
-    <file name="juni201610773x521.jpg" crc="4049078849" seo="true" ref="marit"/>
-    <file name="juni201610773x521_2x.jpg" crc="3914420529" seo="true" ref="marit"/>
-    <file name="juni201611773x521.jpg" crc="396418748" seo="true" ref="marit"/>
-    <file name="juni201611773x521_2x.jpg" crc="3971396502" seo="true" ref="marit"/>
-    <file name="juni201612773x521.jpg" crc="4108180918" seo="true" ref="marit"/>
-    <file name="juni201612773x521_2x.jpg" crc="170534145" seo="true" ref="marit"/>
-    <file name="juni201610574x387.jpg" crc="3978152507" seo="true" ref="marit"/>
-    <file name="juni201610574x387_2x.jpg" crc="118404279" seo="true" ref="marit"/>
-    <file name="juni201611574x387.jpg" crc="4147847035" seo="true" ref="marit"/>
-    <file name="juni201611574x387_2x.jpg" crc="3775765458" seo="true" ref="marit"/>
-    <file name="juni201612574x387.jpg" crc="374804353" seo="true" ref="marit"/>
-    <file name="juni201612574x387_2x.jpg" crc="264252818" seo="true" ref="marit"/>
-    <file name="juni2016-4.jpg" crc="3789066425" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-4_2x.jpg" crc="3777572441" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5.jpg" crc="3822479344" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5_2x.jpg" crc="3802899685" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6.jpg" crc="326187805" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6_2x.jpg" crc="349056973" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7.jpg" crc="3925137699" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7_2x.jpg" crc="3826897036" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-4773x521.jpg" crc="129627326" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-4773x521_2x.jpg" crc="4227996049" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5773x521.jpg" crc="430290743" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5773x521_2x.jpg" crc="4277528180" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6773x521.jpg" crc="3946276528" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6773x521_2x.jpg" crc="4101459748" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7773x521.jpg" crc="3945902244" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7773x521_2x.jpg" crc="4277837115" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-4574x387.jpg" crc="3873297897" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-4574x387_2x.jpg" crc="4073620724" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5574x387.jpg" crc="4103326300" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-5574x387_2x.jpg" crc="4230760577" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6574x387.jpg" crc="3986774227" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-6574x387_2x.jpg" crc="377531461" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7574x387.jpg" crc="4249235944" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-7574x387_2x.jpg" crc="266722128" seo="true" ref="ici-ou-ailleurs"/>
-    <file name="juni2016-10.jpg" crc="4010045443" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-10_2x.jpg" crc="74859185" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11.jpg" crc="4061961775" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11_2x.jpg" crc="3984327414" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-10773x521.jpg" crc="410019215" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-10773x521_2x.jpg" crc="4081510911" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11773x521.jpg" crc="3762820287" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11773x521_2x.jpg" crc="4024132515" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-10574x387.jpg" crc="301087345" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-10574x387_2x.jpg" crc="3923779779" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11574x387.jpg" crc="378196833" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-11574x387_2x.jpg" crc="3859651" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-12.jpg" crc="4100482589" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-12_2x.jpg" crc="4277221356" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13.jpg" crc="3849376892" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13_2x.jpg" crc="3897546239" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14.jpg" crc="3765783539" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14_2x.jpg" crc="3908850085" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-12773x521.jpg" crc="4274730756" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-12773x521_2x.jpg" crc="228795128" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13773x521.jpg" crc="4230600171" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13773x521_2x.jpg" crc="191012854" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14773x521.jpg" crc="155259900" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14773x521_2x.jpg" crc="3893983312" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-12574x387.jpg" crc="232992984" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-12574x387_2x.jpg" crc="186458306" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13574x387.jpg" crc="460294986" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-13574x387_2x.jpg" crc="528201127" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14574x387.jpg" crc="19619046" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-14574x387_2x.jpg" crc="4025152711" seo="true" ref="fredrik-lund"/>
-    <file name="juni2016-2-.jpg" crc="4059550612" seo="true" ref="matauk"/>
-    <file name="juni2016-2-_2x.jpg" crc="220951645" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2.jpg" crc="4228564773" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2_2x.jpg" crc="327496499" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3.jpg" crc="310704892" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3_2x.jpg" crc="5179165" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4.jpg" crc="4157405847" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4_2x.jpg" crc="3792955108" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5.jpg" crc="3819885835" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5_2x.jpg" crc="4184138958" seo="true" ref="matauk"/>
-    <file name="juni2016-2-773x521.jpg" crc="3838102696" seo="true" ref="matauk"/>
-    <file name="juni2016-2-773x521_2x.jpg" crc="511027726" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2773x521.jpg" crc="4098161319" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2773x521_2x.jpg" crc="437860213" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3773x521.jpg" crc="4083861632" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3773x521_2x.jpg" crc="172486988" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4773x521.jpg" crc="134648023" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4773x521_2x.jpg" crc="483959792" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5773x521.jpg" crc="245788798" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5773x521_2x.jpg" crc="4233290648" seo="true" ref="matauk"/>
-    <file name="juni2016-2-574x387.jpg" crc="3843667913" seo="true" ref="matauk"/>
-    <file name="juni2016-2-574x387_2x.jpg" crc="468586586" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2574x387.jpg" crc="3923164940" seo="true" ref="matauk"/>
-    <file name="juni2016-2-2574x387_2x.jpg" crc="3850583668" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3574x387.jpg" crc="4241386993" seo="true" ref="matauk"/>
-    <file name="juni2016-2-3574x387_2x.jpg" crc="42620450" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4574x387.jpg" crc="3949641355" seo="true" ref="matauk"/>
-    <file name="juni2016-2-4574x387_2x.jpg" crc="437298811" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5574x387.jpg" crc="4052669924" seo="true" ref="matauk"/>
-    <file name="juni2016-2-5574x387_2x.jpg" crc="3940160872" seo="true" ref="matauk"/>
-    <file name="juni2016-8.jpg" crc="4073898437" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-8_2x.jpg" crc="4009016459" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-8773x521.jpg" crc="324031758" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-8773x521_2x.jpg" crc="71402182" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-8574x387.jpg" crc="4173713527" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-8574x387_2x.jpg" crc="307532977" seo="true" ref="lønn,-sierru"/>
-    <file name="juni2016-15.jpg" crc="3807600269" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-15_2x.jpg" crc="481029309" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16.jpg" crc="184992863" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16_2x.jpg" crc="183612331" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-15773x521.jpg" crc="401223833" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-15773x521_2x.jpg" crc="4058110208" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16773x521.jpg" crc="3844193134" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16773x521_2x.jpg" crc="466736060" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-15574x387.jpg" crc="3823272410" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-15574x387_2x.jpg" crc="4055395962" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16574x387.jpg" crc="4136634022" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-16574x387_2x.jpg" crc="3894362414" seo="true" ref="kristine-wathne"/>
-    <file name="juni2016-fredrik.jpg" crc="96037747" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-fredrik_2x.jpg" crc="3953628706" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-fredrik773x521.jpg" crc="3834051382" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-fredrik773x521_2x.jpg" crc="3831711094" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-fredrik574x387.jpg" crc="226805784" seo="true" ref="fredrik-justnes"/>
-    <file name="juni2016-fredrik574x387_2x.jpg" crc="4223119445" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201610773x521.jpg" crc="533023112" seo="true" ref="marit"/>
+    <file name="juni201610773x521_2x.jpg" crc="354483171" seo="true" ref="marit"/>
+    <file name="juni201611773x521.jpg" crc="3948111357" seo="true" ref="marit"/>
+    <file name="juni201611773x521_2x.jpg" crc="4058522031" seo="true" ref="marit"/>
+    <file name="juni201612773x521.jpg" crc="4252928091" seo="true" ref="marit"/>
+    <file name="juni201612773x521_2x.jpg" crc="4020742714" seo="true" ref="marit"/>
+    <file name="juni201610574x387.jpg" crc="71858853" seo="true" ref="marit"/>
+    <file name="juni201610574x387_2x.jpg" crc="3800566548" seo="true" ref="marit"/>
+    <file name="juni201611574x387.jpg" crc="4016895033" seo="true" ref="marit"/>
+    <file name="juni201611574x387_2x.jpg" crc="335879380" seo="true" ref="marit"/>
+    <file name="juni201612574x387.jpg" crc="339571267" seo="true" ref="marit"/>
+    <file name="juni201612574x387_2x.jpg" crc="397792255" seo="true" ref="marit"/>
+    <file name="juni201613.jpg" crc="442962905" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201613_2x.jpg" crc="39824151" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614.jpg" crc="347106409" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614_2x.jpg" crc="353362" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615.jpg" crc="4285776566" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615_2x.jpg" crc="525720991" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616.jpg" crc="3791325925" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616_2x.jpg" crc="3986363398" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201613773x521.jpg" crc="263726439" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201613773x521_2x.jpg" crc="3918367299" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614773x521.jpg" crc="295537573" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614773x521_2x.jpg" crc="92174295" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615773x521.jpg" crc="211223313" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615773x521_2x.jpg" crc="473223555" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616773x521.jpg" crc="346314088" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616773x521_2x.jpg" crc="3975081817" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201613574x387.jpg" crc="4168202060" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201613574x387_2x.jpg" crc="425780392" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614574x387.jpg" crc="3855706320" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201614574x387_2x.jpg" crc="4103242401" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615574x387.jpg" crc="484260803" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201615574x387_2x.jpg" crc="451606291" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616574x387.jpg" crc="377557326" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201616574x387_2x.jpg" crc="4255736300" seo="true" ref="ici-ou-ailleurs"/>
+    <file name="juni201618.jpg" crc="3777466610" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201618_2x.jpg" crc="3903196573" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619.jpg" crc="110165643" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619_2x.jpg" crc="3871515995" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620.jpg" crc="3824530636" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620_2x.jpg" crc="3876512990" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201618773x521.jpg" crc="4212690700" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201618773x521_2x.jpg" crc="266636934" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619773x521.jpg" crc="256332287" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619773x521_2x.jpg" crc="201532670" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620773x521.jpg" crc="442772517" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620773x521_2x.jpg" crc="3854546965" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201618574x387.jpg" crc="107711998" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201618574x387_2x.jpg" crc="4002150837" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619574x387.jpg" crc="4095556984" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201619574x387_2x.jpg" crc="4100776862" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620574x387.jpg" crc="4242168074" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201620574x387_2x.jpg" crc="116576195" seo="true" ref="fredrik-justnes"/>
+    <file name="juni201621.jpg" crc="46073213" seo="true" ref="fredrik-lund"/>
+    <file name="juni201621_2x.jpg" crc="3885638491" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622.jpg" crc="4038031898" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622_2x.jpg" crc="3995937046" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623.jpg" crc="418101776" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623_2x.jpg" crc="4065107729" seo="true" ref="fredrik-lund"/>
+    <file name="juni201621773x521.jpg" crc="174096250" seo="true" ref="fredrik-lund"/>
+    <file name="juni201621773x521_2x.jpg" crc="4247203268" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622773x521.jpg" crc="4021253123" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622773x521_2x.jpg" crc="3810597528" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623773x521.jpg" crc="4134252657" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623773x521_2x.jpg" crc="3825689050" seo="true" ref="fredrik-lund"/>
+    <file name="juni201621574x387.jpg" crc="497686231" seo="true" ref="fredrik-lund"/>
+    <file name="juni201621574x387_2x.jpg" crc="390210755" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622574x387.jpg" crc="396275206" seo="true" ref="fredrik-lund"/>
+    <file name="juni201622574x387_2x.jpg" crc="3894770364" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623574x387.jpg" crc="191294778" seo="true" ref="fredrik-lund"/>
+    <file name="juni201623574x387_2x.jpg" crc="3845951651" seo="true" ref="fredrik-lund"/>
+    <file name="juni201626.jpg" crc="4214717277" seo="true" ref="matauk"/>
+    <file name="juni201626_2x.jpg" crc="4204359041" seo="true" ref="matauk"/>
+    <file name="juni201627.jpg" crc="344815793" seo="true" ref="matauk"/>
+    <file name="juni201627_2x.jpg" crc="4069832457" seo="true" ref="matauk"/>
+    <file name="juni201628.jpg" crc="3792466637" seo="true" ref="matauk"/>
+    <file name="juni201628_2x.jpg" crc="102639786" seo="true" ref="matauk"/>
+    <file name="juni201629.jpg" crc="19734380" seo="true" ref="matauk"/>
+    <file name="juni201629_2x.jpg" crc="3959061701" seo="true" ref="matauk"/>
+    <file name="juni201630.jpg" crc="522134437" seo="true" ref="matauk"/>
+    <file name="juni201630_2x.jpg" crc="4103495701" seo="true" ref="matauk"/>
+    <file name="juni201626773x521.jpg" crc="99506523" seo="true" ref="matauk"/>
+    <file name="juni201626773x521_2x.jpg" crc="520430632" seo="true" ref="matauk"/>
+    <file name="juni201627773x521.jpg" crc="114406188" seo="true" ref="matauk"/>
+    <file name="juni201627773x521_2x.jpg" crc="7162018" seo="true" ref="matauk"/>
+    <file name="juni201628773x521.jpg" crc="172179630" seo="true" ref="matauk"/>
+    <file name="juni201628773x521_2x.jpg" crc="176998594" seo="true" ref="matauk"/>
+    <file name="juni201629773x521.jpg" crc="4045872018" seo="true" ref="matauk"/>
+    <file name="juni201629773x521_2x.jpg" crc="79863786" seo="true" ref="matauk"/>
+    <file name="juni201630773x521.jpg" crc="297920985" seo="true" ref="matauk"/>
+    <file name="juni201630773x521_2x.jpg" crc="346872442" seo="true" ref="matauk"/>
+    <file name="juni201626574x387.jpg" crc="4153063574" seo="true" ref="matauk"/>
+    <file name="juni201626574x387_2x.jpg" crc="4186374312" seo="true" ref="matauk"/>
+    <file name="juni201627574x387.jpg" crc="4225465421" seo="true" ref="matauk"/>
+    <file name="juni201627574x387_2x.jpg" crc="228532187" seo="true" ref="matauk"/>
+    <file name="juni201628574x387.jpg" crc="9532529" seo="true" ref="matauk"/>
+    <file name="juni201628574x387_2x.jpg" crc="386029677" seo="true" ref="matauk"/>
+    <file name="juni201629574x387.jpg" crc="3867961768" seo="true" ref="matauk"/>
+    <file name="juni201629574x387_2x.jpg" crc="4265011791" seo="true" ref="matauk"/>
+    <file name="juni201630574x387.jpg" crc="3890904021" seo="true" ref="matauk"/>
+    <file name="juni201630574x387_2x.jpg" crc="28260293" seo="true" ref="matauk"/>
+    <file name="juni201617.jpg" crc="4232400675" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201617_2x.jpg" crc="3983992010" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201617773x521.jpg" crc="525710120" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201617773x521_2x.jpg" crc="380596800" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201617574x387.jpg" crc="239766198" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201617574x387_2x.jpg" crc="181435963" seo="true" ref="lønn,-sierru"/>
+    <file name="juni201624.jpg" crc="500188977" seo="true" ref="kristine-wathne"/>
+    <file name="juni201624_2x.jpg" crc="304061417" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625.jpg" crc="4188112371" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625_2x.jpg" crc="374735360" seo="true" ref="kristine-wathne"/>
+    <file name="juni201624773x521.jpg" crc="237942237" seo="true" ref="kristine-wathne"/>
+    <file name="juni201624773x521_2x.jpg" crc="268405173" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625773x521.jpg" crc="3916338260" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625773x521_2x.jpg" crc="3900490257" seo="true" ref="kristine-wathne"/>
+    <file name="juni201624574x387.jpg" crc="182931153" seo="true" ref="kristine-wathne"/>
+    <file name="juni201624574x387_2x.jpg" crc="4195580158" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625574x387.jpg" crc="4075011660" seo="true" ref="kristine-wathne"/>
+    <file name="juni201625574x387_2x.jpg" crc="254858194" seo="true" ref="kristine-wathne"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -365,16 +365,16 @@
     <file name="index.html" crc="4035198413" seo="true" mt="1465427713700" redirect="true"/>
     <file name="contact.html" crc="284150289" seo="true" mt="1465427496545" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3987950946" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="wtf-tkm!.html" crc="4256057412" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="380489713" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="ambassadøren.html" crc="229895859" seo="true" mt="1465509223889" redirect="true"/>
-  <file name="fredrik-justnes.html" crc="280838395" seo="true" mt="1465509542747" redirect="true"/>
-  <file name="fredrik-lund.html" crc="213991459" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="contact.html" crc="112236180" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="marit.html" crc="527335063" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="matauk.html" crc="4224505776" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="lønn,-sierru.html" crc="529765361" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="kristine-wathne.html" crc="3758949392" seo="true" mt="1465508779003" redirect="true"/>
-  <file name="ici-ou-ailleurs.html" crc="303465550" seo="true" mt="1465508779003" redirect="true"/>
+  <file name="index.html" crc="3826849541" seo="true" mt="1465545113441" redirect="true"/>
+  <file name="wtf-tkm!.html" crc="4248454658" seo="true" mt="1465544814995" redirect="true"/>
+  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="426049675" seo="true" mt="1465544253245" redirect="true"/>
+  <file name="ambassadøren.html" crc="381520608" seo="true" mt="1465544253245" redirect="true"/>
+  <file name="fredrik-justnes.html" crc="253139732" seo="true" mt="1465544824616" redirect="true"/>
+  <file name="fredrik-lund.html" crc="373025932" seo="true" mt="1465544513863" redirect="true"/>
+  <file name="contact.html" crc="4022399880" seo="true" mt="1465544253245" redirect="true"/>
+  <file name="marit.html" crc="4279468343" seo="true" mt="1465544472399" redirect="true"/>
+  <file name="matauk.html" crc="396639397" seo="true" mt="1465545148582" redirect="true"/>
+  <file name="lønn,-sierru.html" crc="4250589629" seo="true" mt="1465544806231" redirect="true"/>
+  <file name="kristine-wathne.html" crc="4180325045" seo="true" mt="1465544526903" redirect="true"/>
+  <file name="ici-ou-ailleurs.html" crc="90130269" seo="true" mt="1465544745942" redirect="true"/>
 </manifest>
