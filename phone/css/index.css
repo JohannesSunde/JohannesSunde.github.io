@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #0000FF;
-	background-color: #A925F5;
+	background-color: #897E81;
 }
 
 #page
@@ -369,7 +369,7 @@
 #pu14619
 {
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 512px;
 	width: 100%;
 }
 
@@ -412,8 +412,8 @@
 
 #u14598_img
 {
-	margin-left: -1px;
-	margin-right: 1px;
+	margin-left: 1px;
+	margin-right: -1px;
 }
 
 #u14600
@@ -424,7 +424,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 69.74%;
+	left: 72.37%;
 }
 
 #u14639
@@ -435,7 +435,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 5px;
-	left: 17.11%;
+	left: 14.48%;
 }
 
 #u14639_img
@@ -454,12 +454,4 @@ body
 	position: relative;
 	min-width: 320px;
 }
-
-.verticalspacer
-{
-	min-height: 1px;
-}
-
-
-
 
