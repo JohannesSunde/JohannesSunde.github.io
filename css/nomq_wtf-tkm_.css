@@ -10,35 +10,41 @@
 
 	#page
 	{
-		min-height: 903px;
-		padding-bottom: 19px;
+		min-height: 800px;
+		padding-bottom: 20px;
 		max-width: 1345px;
 	}
 
-	#pu2439
+	#pu14302-6
 	{
-		margin-right: -10000px;
-		margin-top: 20px;
-		width: 8.41%;
-		margin-left: 1.49%;
+		margin-top: 72px;
 	}
 
-	#u114-67
+	#u14302-6
 	{
-		min-height: 537px;
-		margin-top: 116px;
+		width: 396px;
+	}
+
+	#u114-55
+	{
+		min-height: 324px;
+		margin-top: 9px;
 	}
 
 	#u14103
 	{
-		margin-top: 20px;
-		width: 9.89%;
-		left: 12.79%;
+		margin-top: 34px;
+	}
+
+	#u2439
+	{
+		margin-top: 446px;
+		left: 2.01%;
 	}
 
 	#slideshowu6061
 	{
-		height: 806px;
+		height: 771px;
 	}
 
 	#u6078,#u6081,#u7818,#u7860,#u7902
@@ -61,7 +67,7 @@
 	#u6065-6,#u7842-6,#u7884-6,#u7926-6
 	{
 		width: 965px;
-		min-height: 75px;
+		min-height: 40px;
 	}
 
 	#u6062-4
@@ -81,11 +87,6 @@
 		width: 506px;
 		min-height: 691px;
 		left: 527px;
-	}
-
-	body
-	{
-		padding-top: 20px;
 	}
 
 
