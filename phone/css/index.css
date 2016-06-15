@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FF;
-	background-color: #897E81;
+	color: #0000E0;
+	background-color: #224759;
 }
 
 #page
@@ -366,17 +366,10 @@
 	background: url("../../images/loading.gif") no-repeat center center;
 }
 
-#pu14619
-{
-	margin-right: -10000px;
-	margin-top: 512px;
-	width: 100%;
-}
-
 #u14619
 {
 	z-index: 82;
-	height: 58px;
+	height: 71px;
 	background-color: #000000;
 	opacity: 0.4;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -396,7 +389,44 @@
 #u14619-bw
 {
 	z-index: 82;
-	height: 58px;
+	margin-top: 499px;
+	height: 71px;
+}
+
+#u14639
+{
+	z-index: 87;
+	width: 50px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 517px;
+	margin-left: 50%;
+	left: -139px;
+}
+
+#u14639_img
+{
+	margin-top: -1px;
+	margin-bottom: 1px;
+}
+
+#pu15639
+{
+	margin-right: -10000px;
+	margin-top: 493px;
+	width: 13.16%;
+	margin-left: 43.43%;
+}
+
+#u15639
+{
+	z-index: 89;
+	width: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-left: 50%;
+	left: -13px;
 }
 
 #u14598
@@ -404,10 +434,11 @@
 	z-index: 83;
 	width: 50px;
 	background-color: transparent;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 43.43%;
+	margin-left: 50%;
+	left: -23px;
 }
 
 #u14598_img
@@ -423,25 +454,9 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 72.37%;
-}
-
-#u14639
-{
-	z-index: 87;
-	width: 50px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5px;
-	left: 14.48%;
-}
-
-#u14639_img
-{
-	margin-top: -1px;
-	margin-bottom: 1px;
+	margin-top: 517px;
+	margin-left: 50%;
+	left: 93px;
 }
 
 #muse_css_mq,.html

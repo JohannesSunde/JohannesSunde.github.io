@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1465732095202">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1465955617469">
   <folder name="css">
     <file name="site_global.css" crc="3873840565"/>
     <file name="master_a-mal.css" crc="432616894" ref="index:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
@@ -352,12 +352,14 @@
     <file name="instagram2_2x.png" crc="118730930" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
     <file name="facebook2.png" crc="3896639647" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
     <file name="facebook2_2x.png" crc="292859083" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="pil.png" crc="4055634185" seo="true" ref="phone>index"/>
+    <file name="pil_2x.png" crc="237347595" seo="true" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4287200897" ref="phone>index"/>
+      <file name="index.css" crc="3760342873" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3823801680" seo="true" mt="1465732049939" redirect="true"/>
+    <file name="index.html" crc="291482176" seo="true" mt="1465955583172" redirect="true"/>
   </folder>
   <file name="index.html" crc="4196658428" seo="true" mt="1465729047453" redirect="true"/>
   <file name="wtf-tkm!.html" crc="3953782557" seo="true" mt="1465729047453" redirect="true"/>
