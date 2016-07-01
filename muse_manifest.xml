@@ -1,49 +1,51 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1465955617469">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1467402838675">
   <folder name="css">
-    <file name="site_global.css" crc="3873840565"/>
-    <file name="master_a-mal.css" crc="432616894" ref="index:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:lønn,-sierru:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="index.css" crc="4156263584" ref="index"/>
-    <file name="nomq_index.css" crc="276320845" ref="index"/>
-    <file name="l_nn_-sierru.css" crc="4151934146" ref="lønn,-sierru"/>
-    <file name="nomq_l_nn_-sierru.css" crc="4044403475" ref="lønn,-sierru"/>
-    <file name="fredrik-lund.css" crc="3920619985" ref="fredrik-lund"/>
-    <file name="nomq_fredrik-lund.css" crc="257939737" ref="fredrik-lund"/>
-    <file name="fredrik-justnes.css" crc="433743130" ref="fredrik-justnes"/>
-    <file name="nomq_fredrik-justnes.css" crc="4142507234" ref="fredrik-justnes"/>
-    <file name="matauk.css" crc="4279141191" ref="matauk"/>
-    <file name="nomq_matauk.css" crc="452786857" ref="matauk"/>
-    <file name="ambassad_ren.css" crc="3814876892" ref="ambassadøren"/>
-    <file name="nomq_ambassad_ren.css" crc="3922972359" ref="ambassadøren"/>
-    <file name="marit.css" crc="4174598403" ref="marit"/>
-    <file name="nomq_marit.css" crc="260204876" ref="marit"/>
-    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4276728629" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="3834490480" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="wtf-tkm_.css" crc="298072487" ref="wtf-tkm!"/>
-    <file name="nomq_wtf-tkm_.css" crc="3814084939" ref="wtf-tkm!"/>
-    <file name="kristine-wathne.css" crc="8925093" ref="kristine-wathne"/>
-    <file name="nomq_kristine-wathne.css" crc="4229486395" ref="kristine-wathne"/>
-    <file name="ici-ou-ailleurs.css" crc="315651798" ref="ici-ou-ailleurs"/>
-    <file name="nomq_ici-ou-ailleurs.css" crc="528449738" ref="ici-ou-ailleurs"/>
+    <file name="site_global.css" crc="457258267"/>
+    <file name="master_a-mal.css" crc="226938651" ref="index:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
+    <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:fredrik-lund:fredrik-justnes:matauk:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs"/>
+    <file name="index.css" crc="4016843134" ref="index"/>
+    <file name="nomq_index.css" crc="412540539" ref="index"/>
+    <file name="l_nn_-sierru.css" crc="520897615" ref="lønn,-sierru"/>
+    <file name="nomq_l_nn_-sierru.css" crc="4226494389" ref="lønn,-sierru"/>
+    <file name="fredrik-lund.css" crc="252276780" ref="fredrik-lund"/>
+    <file name="nomq_fredrik-lund.css" crc="3858893671" ref="fredrik-lund"/>
+    <file name="fredrik-justnes.css" crc="3954142509" ref="fredrik-justnes"/>
+    <file name="nomq_fredrik-justnes.css" crc="3966511482" ref="fredrik-justnes"/>
+    <file name="matauk.css" crc="4015667617" ref="matauk"/>
+    <file name="nomq_matauk.css" crc="463157219" ref="matauk"/>
+    <file name="ambassad_ren.css" crc="3819152385" ref="ambassadøren"/>
+    <file name="nomq_ambassad_ren.css" crc="10441140" ref="ambassadøren"/>
+    <file name="marit.css" crc="887342" ref="marit"/>
+    <file name="nomq_marit.css" crc="217118389" ref="marit"/>
+    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4251663222" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4077795009" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="wtf-tkm_.css" crc="149670875" ref="wtf-tkm!"/>
+    <file name="nomq_wtf-tkm_.css" crc="365419917" ref="wtf-tkm!"/>
+    <file name="kristine-wathne.css" crc="258793201" ref="kristine-wathne"/>
+    <file name="nomq_kristine-wathne.css" crc="3823212577" ref="kristine-wathne"/>
+    <file name="ici-ou-ailleurs.css" crc="61844136" ref="ici-ou-ailleurs"/>
+    <file name="nomq_ici-ou-ailleurs.css" crc="4032880670" ref="ici-ou-ailleurs"/>
+    <file name="master_kontaktmal.css" crc="216058974" ref="kontakt:lønn,-sierru"/>
+    <file name="nomq_preview_master_kontaktmal.css" crc="321525473" ref="kontakt:lønn,-sierru"/>
+    <file name="kontakt.css" crc="4274266092" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="268945125" ref="kontakt"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="museutils.js" crc="3790713428" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="whatinput.js" crc="84559013" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="webpro.js" crc="329496574" ref="phone>index:index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="phone>index:index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>index:index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="touchswipe.js" crc="497316881" ref="phone>index:index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="museredirect.js" crc="71780213" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
+    <file name="museutils.js" crc="3790713428" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
+    <file name="whatinput.js" crc="84559013" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
+    <file name="webpro.js" crc="329496574" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4070288207" ref="phone>index"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="instagram2.png" crc="133841762" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="mail.png" crc="3987499350" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="favicon.ico" crc="4070288207" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt"/>
+    <file name="loading.gif" crc="3815509949" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-justnes:fredrik-lund:matauk:lønn,-sierru:kristine-wathne"/>
+    <file name="instagram2.png" crc="133841762" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:kontakt"/>
     <file name="juni2016.jpg" crc="89942166" seo="true" ref="index"/>
     <file name="juni2016_2x.jpg" crc="36382703" seo="true" ref="index"/>
     <file name="juni20162.jpg" crc="3840893651" seo="true" ref="index"/>
@@ -104,43 +106,6 @@
     <file name="juni201611_2x.jpg" crc="304038730" seo="true" ref="marit"/>
     <file name="juni201612.jpg" crc="4290423652" seo="true" ref="marit"/>
     <file name="juni201612_2x.jpg" crc="67599042" seo="true" ref="marit"/>
-    <file name="mobilkarusell-1.jpg" crc="3999344620" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-2.jpg" crc="4216307483" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-3.jpg" crc="4150177438" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-4.jpg" crc="4013172938" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-5.jpg" crc="6504604" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-6.jpg" crc="380378713" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-7.jpg" crc="84395334" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-8.jpg" crc="175472021" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-9.jpg" crc="453107863" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-10.jpg" crc="3991885395" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-11.jpg" crc="513253678" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-12.jpg" crc="208162348" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-13.jpg" crc="196504286" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-14.jpg" crc="4226540970" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-15.jpg" crc="4103047349" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-16.jpg" crc="4264199576" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-17.jpg" crc="263052232" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-18.jpg" crc="3821384728" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-19.jpg" crc="4290944108" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-20.jpg" crc="249466259" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-21.jpg" crc="4122129330" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-23.jpg" crc="268858101" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-24.jpg" crc="4294135564" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-25.jpg" crc="4025022604" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-26.jpg" crc="84641777" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-27.jpg" crc="23780122" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-28.jpg" crc="405559494" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-29.jpg" crc="3946880202" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-30.jpg" crc="502882419" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-31.jpg" crc="3853142108" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-32.jpg" crc="3841907768" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-33.jpg" crc="188430181" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-34.jpg" crc="3949671104" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-35.jpg" crc="3910484774" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-36.jpg" crc="391438246" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-37.jpg" crc="472069953" seo="true" ref="phone>index"/>
-    <file name="mobilkarusell-38.jpg" crc="483590036" seo="true" ref="phone>index"/>
     <file name="kappe-1.jpg" crc="4006863771" seo="true" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
     <file name="kappe-1_2x.jpg" crc="36623479" seo="true" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
     <file name="kappe-2.jpg" crc="3878980461" seo="true" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
@@ -297,8 +262,6 @@
     <file name="juni201622574x387_2x.jpg" crc="3894770364" seo="true" ref="fredrik-lund"/>
     <file name="juni201623574x387.jpg" crc="191294778" seo="true" ref="fredrik-lund"/>
     <file name="juni201623574x387_2x.jpg" crc="3845951651" seo="true" ref="fredrik-lund"/>
-    <file name="juni201626.jpg" crc="4214717277" seo="true" ref="matauk"/>
-    <file name="juni201626_2x.jpg" crc="4204359041" seo="true" ref="matauk"/>
     <file name="juni201627.jpg" crc="344815793" seo="true" ref="matauk"/>
     <file name="juni201627_2x.jpg" crc="4069832457" seo="true" ref="matauk"/>
     <file name="juni201628.jpg" crc="3792466637" seo="true" ref="matauk"/>
@@ -307,8 +270,6 @@
     <file name="juni201629_2x.jpg" crc="3959061701" seo="true" ref="matauk"/>
     <file name="juni201630.jpg" crc="522134437" seo="true" ref="matauk"/>
     <file name="juni201630_2x.jpg" crc="4103495701" seo="true" ref="matauk"/>
-    <file name="juni201626773x521.jpg" crc="99506523" seo="true" ref="matauk"/>
-    <file name="juni201626773x521_2x.jpg" crc="520430632" seo="true" ref="matauk"/>
     <file name="juni201627773x521.jpg" crc="114406188" seo="true" ref="matauk"/>
     <file name="juni201627773x521_2x.jpg" crc="7162018" seo="true" ref="matauk"/>
     <file name="juni201628773x521.jpg" crc="172179630" seo="true" ref="matauk"/>
@@ -317,8 +278,6 @@
     <file name="juni201629773x521_2x.jpg" crc="79863786" seo="true" ref="matauk"/>
     <file name="juni201630773x521.jpg" crc="297920985" seo="true" ref="matauk"/>
     <file name="juni201630773x521_2x.jpg" crc="346872442" seo="true" ref="matauk"/>
-    <file name="juni201626574x387.jpg" crc="4153063574" seo="true" ref="matauk"/>
-    <file name="juni201626574x387_2x.jpg" crc="4186374312" seo="true" ref="matauk"/>
     <file name="juni201627574x387.jpg" crc="4225465421" seo="true" ref="matauk"/>
     <file name="juni201627574x387_2x.jpg" crc="228532187" seo="true" ref="matauk"/>
     <file name="juni201628574x387.jpg" crc="9532529" seo="true" ref="matauk"/>
@@ -345,31 +304,29 @@
     <file name="juni201624574x387_2x.jpg" crc="4195580158" seo="true" ref="kristine-wathne"/>
     <file name="juni201625574x387.jpg" crc="4075011660" seo="true" ref="kristine-wathne"/>
     <file name="juni201625574x387_2x.jpg" crc="254858194" seo="true" ref="kristine-wathne"/>
-    <file name="instagram.png" crc="498929689" seo="true" ref="phone>index"/>
-    <file name="mail2.png" crc="464460205" seo="true" ref="phone>index"/>
-    <file name="telefon2.png" crc="4153675840" seo="true" ref="phone>index"/>
-    <file name="mail_2x.png" crc="3930284422" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="instagram2_2x.png" crc="118730930" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="facebook2.png" crc="3896639647" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="facebook2_2x.png" crc="292859083" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne"/>
-    <file name="pil.png" crc="4055634185" seo="true" ref="phone>index"/>
-    <file name="pil_2x.png" crc="237347595" seo="true" ref="phone>index"/>
+    <file name="instagram2_2x.png" crc="118730930" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:kontakt"/>
+    <file name="facebook2.png" crc="3896639647" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:kontakt"/>
+    <file name="facebook2_2x.png" crc="292859083" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:lønn,-sierru:kristine-wathne:kontakt"/>
+    <file name="pil.png" crc="341152879" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:kristine-wathne"/>
+    <file name="pil_2x.png" crc="55919202" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:matauk:kristine-wathne"/>
+    <file name="pil100x139.png" crc="4168100911" seo="true" ref="index"/>
+    <file name="pil100x139_2x.png" crc="4060842805" seo="true" ref="index"/>
+    <file name="pil77x108.png" crc="485537734" seo="true" ref="index"/>
+    <file name="pil77x108_2x.png" crc="4137463436" seo="true" ref="index"/>
+    <file name="johannessunde-1.jpg" crc="3941215297" seo="true" ref="matauk"/>
+    <file name="johannessunde-1773x515.jpg" crc="238679370" seo="true" ref="matauk"/>
+    <file name="johannessunde-1574x383.jpg" crc="4272003614" seo="true" ref="matauk"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="3760342873" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="291482176" seo="true" mt="1465955583172" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="4196658428" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="wtf-tkm!.html" crc="3953782557" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="3772769671" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="ambassadøren.html" crc="100292216" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="fredrik-justnes.html" crc="4128272435" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="fredrik-lund.html" crc="91894807" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="marit.html" crc="431067416" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="matauk.html" crc="3918199264" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="lønn,-sierru.html" crc="4248778627" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="kristine-wathne.html" crc="3925642044" seo="true" mt="1465729047453" redirect="true"/>
-  <file name="ici-ou-ailleurs.html" crc="4010662283" seo="true" mt="1465729047453" redirect="true"/>
+  <file name="index.html" crc="156312354" seo="true" mt="1467401496113" redirect="true"/>
+  <file name="wtf-tkm!.html" crc="3765242691" seo="true" mt="1467401496114" redirect="true"/>
+  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="4220103699" seo="true" mt="1467401496115" redirect="true"/>
+  <file name="ambassadøren.html" crc="4074148934" seo="true" mt="1467401496116" redirect="true"/>
+  <file name="fredrik-justnes.html" crc="246668459" seo="true" mt="1467401496117" redirect="true"/>
+  <file name="fredrik-lund.html" crc="3980617923" seo="true" mt="1467401496123" redirect="true"/>
+  <file name="marit.html" crc="87302781" seo="true" mt="1467401496124" redirect="true"/>
+  <file name="matauk.html" crc="3917088008" seo="true" mt="1467401496125" redirect="true"/>
+  <file name="lønn,-sierru.html" crc="483969536" seo="true" mt="1467401631724" redirect="true"/>
+  <file name="kristine-wathne.html" crc="416233377" seo="true" mt="1467401496127" redirect="true"/>
+  <file name="ici-ou-ailleurs.html" crc="4447480" seo="true" mt="1467401496115" redirect="true"/>
+  <file name="kontakt.html" crc="4081724998" seo="true" mt="1467401560733" redirect="true"/>
 </manifest>
