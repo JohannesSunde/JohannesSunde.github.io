@@ -42,13 +42,18 @@
 		height: 851px;
 	}
 
+	#u13634_img,#u13827_img
+	{
+		padding: 14px 15px 15px;
+	}
+
 	#u8784,#u13634,#u13827,#u13869,#u13911,#u13953,#u13995,#u14037
 	{
 		width: 1053px;
 		height: 711px;
 	}
 
-	#u13634_img,#u13827_img,#u13869_img,#u13911_img,#u13953_img,#u13995_img,#u14037_img
+	#u13869_img,#u13911_img,#u13953_img,#u13995_img,#u14037_img
 	{
 		padding: 14px 14px 15px 15px;
 	}
