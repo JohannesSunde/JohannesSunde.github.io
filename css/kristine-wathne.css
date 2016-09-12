@@ -1,32 +1,7 @@
 .version.kristine_wathne /* version checker */
 {
-	color: #0000EE;
-	background-color: #70A44E;
-}
-
-#u16340
-{
-	margin-right: -10000px;
-	position: relative;
-	z-index: 79;
-}
-
-#u14502
-{
-	bottom: 20px;
-	width: 25px;
-	z-index: 75;
-	right: 55px;
-	position: fixed;
-}
-
-#u14506
-{
-	bottom: 20px;
-	width: 25px;
-	z-index: 77;
-	right: 20px;
-	position: fixed;
+	color: #0000EB;
+	background-color: #894526;
 }
 
 #page
@@ -41,7 +16,7 @@
 	background-color: transparent;
 }
 
-#pu14302-6
+#pu14302-4
 {
 	margin-left: 20px;
 	width: 0.01px;
@@ -49,7 +24,7 @@
 	margin-right: -10000px;
 }
 
-#u14302-6
+#u14302-4
 {
 	position: relative;
 	z-index: 69;
@@ -88,12 +63,12 @@
 	margin-right: -10000px;
 	position: relative;
 	width: 0.01px;
-	z-index: 81;
+	z-index: 79;
 }
 
 #u12299popup
 {
-	z-index: 82;
+	z-index: 80;
 }
 
 #u12300
@@ -102,7 +77,7 @@
 	margin-right: -10000px;
 	position: relative;
 	border-width: 0px;
-	z-index: 83;
+	z-index: 81;
 	background-color: transparent;
 }
 
@@ -112,7 +87,7 @@
 	margin-right: -10000px;
 	position: relative;
 	border-width: 0px;
-	z-index: 85;
+	z-index: 83;
 	background-color: transparent;
 }
 
@@ -124,7 +99,7 @@
 
 #u12295popup
 {
-	z-index: 87;
+	z-index: 85;
 }
 
 #u12296-4
@@ -134,7 +109,7 @@
 	background-color: #FFFFFF;
 	position: relative;
 	border-width: 0px;
-	z-index: 88;
+	z-index: 86;
 	padding: 10px;
 	border-color: transparent;
 	margin-right: -10000px;
@@ -149,7 +124,7 @@
 	background-color: #FFFFFF;
 	position: relative;
 	border-width: 0px;
-	z-index: 92;
+	z-index: 90;
 	padding: 10px;
 	border-color: transparent;
 	margin-right: -10000px;
@@ -173,7 +148,7 @@
 
 #u12301-4popup
 {
-	z-index: 96;
+	z-index: 94;
 }
 
 #u12306-4
@@ -193,7 +168,7 @@
 
 #u12306-4popup
 {
-	z-index: 100;
+	z-index: 98;
 }
 
 #u12301,#u12306
@@ -219,7 +194,7 @@
 
 #u12307-4popup
 {
-	z-index: 104;
+	z-index: 102;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton
@@ -232,10 +207,35 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
+#u16340
+{
+	margin-right: -10000px;
+	position: relative;
+	z-index: 77;
+}
+
+#u14502
+{
+	bottom: 20px;
+	width: 25px;
+	z-index: 73;
+	right: 55px;
+	position: fixed;
+}
+
 #u14502_img
 {
 	margin-left: 1px;
 	margin-right: -1px;
+}
+
+#u14506
+{
+	bottom: 20px;
+	width: 25px;
+	z-index: 75;
+	right: 20px;
+	position: fixed;
 }
 
 #u14506_img
@@ -274,12 +274,12 @@ body
 		max-width: 1345px;
 	}
 
-	#pu14302-6
+	#pu14302-4
 	{
 		margin-top: 72px;
 	}
 
-	#u14302-6
+	#u14302-4
 	{
 		width: 396px;
 	}
@@ -391,12 +391,12 @@ body
 		max-width: 1294px;
 	}
 
-	#pu14302-6
+	#pu14302-4
 	{
 		margin-top: 65px;
 	}
 
-	#u14302-6
+	#u14302-4
 	{
 		width: 381px;
 	}
@@ -493,12 +493,12 @@ body
 		max-width: 1000px;
 	}
 
-	#pu14302-6
+	#pu14302-4
 	{
 		margin-top: 65px;
 	}
 
-	#u14302-6
+	#u14302-4
 	{
 		width: 294px;
 	}

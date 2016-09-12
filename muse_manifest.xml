@@ -1,36 +1,36 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1473683268549">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1473684482146">
   <folder name="css">
     <file name="site_global.css" crc="457258267"/>
-    <file name="master_a-mal.css" crc="128016691" ref="index:fredrik-lund:fredrik-justnes:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi"/>
+    <file name="master_a-mal.css" crc="486537322" ref="index:fredrik-lund:fredrik-justnes:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi"/>
     <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:fredrik-lund:fredrik-justnes:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi"/>
-    <file name="index.css" crc="4012669963" ref="index"/>
-    <file name="nomq_index.css" crc="134486356" ref="index"/>
-    <file name="l_nn_-sierru.css" crc="3986901090" ref="lønn,-sierru"/>
-    <file name="nomq_l_nn_-sierru.css" crc="4226494389" ref="lønn,-sierru"/>
-    <file name="fredrik-lund.css" crc="3865774386" ref="fredrik-lund"/>
-    <file name="nomq_fredrik-lund.css" crc="381527957" ref="fredrik-lund"/>
-    <file name="fredrik-justnes.css" crc="293262923" ref="fredrik-justnes"/>
-    <file name="nomq_fredrik-justnes.css" crc="502343452" ref="fredrik-justnes"/>
-    <file name="ambassad_ren.css" crc="3813196411" ref="ambassadøren"/>
-    <file name="nomq_ambassad_ren.css" crc="4284823287" ref="ambassadøren"/>
-    <file name="marit.css" crc="4031936888" ref="marit"/>
-    <file name="nomq_marit.css" crc="4108622009" ref="marit"/>
-    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4226773063" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4088630319" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="wtf-tkm_.css" crc="203501813" ref="wtf-tkm!"/>
-    <file name="nomq_wtf-tkm_.css" crc="391583345" ref="wtf-tkm!"/>
-    <file name="kristine-wathne.css" crc="4000359502" ref="kristine-wathne"/>
-    <file name="nomq_kristine-wathne.css" crc="412411489" ref="kristine-wathne"/>
-    <file name="ici-ou-ailleurs.css" crc="133814462" ref="ici-ou-ailleurs"/>
-    <file name="nomq_ici-ou-ailleurs.css" crc="280137907" ref="ici-ou-ailleurs"/>
-    <file name="master_kontaktmal.css" crc="3969488787" ref="kontakt:lønn,-sierru"/>
-    <file name="nomq_preview_master_kontaktmal.css" crc="321525473" ref="kontakt:lønn,-sierru"/>
-    <file name="kontakt.css" crc="224643843" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="406889837" ref="kontakt"/>
-    <file name="wild-things.css" crc="3768732958" ref="wild-things"/>
-    <file name="nomq_wild-things.css" crc="4015490043" ref="wild-things"/>
-    <file name="habibi.css" crc="4234564998" ref="habibi"/>
-    <file name="nomq_habibi.css" crc="4029384725" ref="habibi"/>
+    <file name="index.css" crc="211985801" ref="index"/>
+    <file name="nomq_index.css" crc="313372766" ref="index"/>
+    <file name="l_nn_-sierru.css" crc="219503917" ref="lønn,-sierru"/>
+    <file name="nomq_l_nn_-sierru.css" crc="320011714" ref="lønn,-sierru"/>
+    <file name="fredrik-lund.css" crc="399961515" ref="fredrik-lund"/>
+    <file name="nomq_fredrik-lund.css" crc="239467304" ref="fredrik-lund"/>
+    <file name="fredrik-justnes.css" crc="3918863949" ref="fredrik-justnes"/>
+    <file name="nomq_fredrik-justnes.css" crc="229305887" ref="fredrik-justnes"/>
+    <file name="ambassad_ren.css" crc="508009105" ref="ambassadøren"/>
+    <file name="nomq_ambassad_ren.css" crc="38329999" ref="ambassadøren"/>
+    <file name="marit.css" crc="153444603" ref="marit"/>
+    <file name="nomq_marit.css" crc="488294719" ref="marit"/>
+    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="249751667" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="56255808" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="wtf-tkm_.css" crc="339196390" ref="wtf-tkm!"/>
+    <file name="nomq_wtf-tkm_.css" crc="421903264" ref="wtf-tkm!"/>
+    <file name="kristine-wathne.css" crc="3951641894" ref="kristine-wathne"/>
+    <file name="nomq_kristine-wathne.css" crc="282148479" ref="kristine-wathne"/>
+    <file name="ici-ou-ailleurs.css" crc="55186285" ref="ici-ou-ailleurs"/>
+    <file name="nomq_ici-ou-ailleurs.css" crc="3930927299" ref="ici-ou-ailleurs"/>
+    <file name="kontakt.css" crc="163329875" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4005954461" ref="kontakt"/>
+    <file name="wild-things.css" crc="360680158" ref="wild-things"/>
+    <file name="nomq_wild-things.css" crc="4278995704" ref="wild-things"/>
+    <file name="habibi.css" crc="429030979" ref="habibi"/>
+    <file name="nomq_habibi.css" crc="51053211" ref="habibi"/>
+    <file name="master_b-mal.css" crc="136022224" ref="kontakt:lønn,-sierru"/>
+    <file name="nomq_preview_master_b-mal.css" crc="321525473" ref="kontakt:lønn,-sierru"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-justnes:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things"/>
@@ -337,17 +337,17 @@
     <file name="september20163574x387.jpg" crc="3807228628" seo="true" ref="wild-things"/>
     <file name="september20163574x387_2x.jpg" crc="411368485" seo="true" ref="wild-things"/>
   </folder>
-  <file name="index.html" crc="4216952558" seo="true" mt="1473683098764" redirect="true"/>
-  <file name="wtf-tkm!.html" crc="395773312" seo="true" mt="1473683127347" redirect="true"/>
-  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="86088902" seo="true" mt="1473683172243" redirect="true"/>
-  <file name="ambassadøren.html" crc="3817383858" seo="true" mt="1473683184667" redirect="true"/>
-  <file name="fredrik-justnes.html" crc="177441723" seo="true" mt="1473683209203" redirect="true"/>
-  <file name="fredrik-lund.html" crc="4112678065" seo="true" mt="1473683219602" redirect="true"/>
-  <file name="marit.html" crc="3932163969" seo="true" mt="1473683139810" redirect="true"/>
-  <file name="lønn,-sierru.html" crc="127001212" seo="true" mt="1473681723511" redirect="true"/>
-  <file name="kristine-wathne.html" crc="3831832498" seo="true" mt="1473683231483" redirect="true"/>
-  <file name="ici-ou-ailleurs.html" crc="145191501" seo="true" mt="1473683155210" redirect="true"/>
-  <file name="kontakt.html" crc="3818619279" seo="true" mt="1473682409092" redirect="true"/>
-  <file name="habibi.html" crc="362141182" seo="true" mt="1473683112226" redirect="true"/>
-  <file name="wild-things.html" crc="408456322" seo="true" mt="1473682705361" redirect="true"/>
+  <file name="index.html" crc="4211951" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="wtf-tkm!.html" crc="100831765" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="3911687732" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="ambassadøren.html" crc="4151725130" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="fredrik-justnes.html" crc="391709820" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="fredrik-lund.html" crc="171397177" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="marit.html" crc="3908599331" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="lønn,-sierru.html" crc="3908710579" seo="true" mt="1473684371250" redirect="true"/>
+  <file name="kristine-wathne.html" crc="4242370524" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="ici-ou-ailleurs.html" crc="4013007659" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="kontakt.html" crc="3932633663" seo="true" mt="1473684377007" redirect="true"/>
+  <file name="habibi.html" crc="4046821002" seo="true" mt="1473684338800" redirect="true"/>
+  <file name="wild-things.html" crc="134264780" seo="true" mt="1473684338800" redirect="true"/>
 </manifest>
