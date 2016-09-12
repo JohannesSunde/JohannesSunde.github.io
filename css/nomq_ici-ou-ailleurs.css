@@ -25,10 +25,21 @@
 		width: 396px;
 	}
 
-	#u114-61
+	#pu14103
+	{
+		width: 0.01px;
+		margin-top: 9px;
+	}
+
+	#u14103
+	{
+		margin-top: 358px;
+	}
+
+	#u114-65
 	{
 		min-height: 358px;
-		margin-top: 9px;
+		margin-right: -10000px;
 	}
 
 	#u2439
@@ -79,7 +90,7 @@
 
 	#u11197-4
 	{
-		width: 506px;
+		width: 551px;
 		min-height: 691px;
 		left: 527px;
 	}

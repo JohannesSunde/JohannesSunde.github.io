@@ -1,20 +1,20 @@
 #u16699-6
 {
-	letter-spacing: 0px;
 	line-height: 18px;
+	letter-spacing: 0px;
 	background-color: transparent;
+	font-size: 18px;
 	font-style: italic;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	text-transform: none;
-	font-size: 18px;
 }
 
 #u16703-61
 {
-	text-align: left;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	background-color: transparent;
 	text-indent: -5px;
+	background-color: transparent;
+	text-align: left;
 }
 
 #u16703
@@ -125,8 +125,8 @@
 #u16700,#u16698
 {
 	border-width: 0px;
-	background-color: transparent;
 	border-color: transparent;
+	background-color: transparent;
 }
 
 #u16704,#u16701

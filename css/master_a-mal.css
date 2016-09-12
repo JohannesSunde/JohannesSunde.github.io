@@ -1,20 +1,20 @@
 #u14302-6
 {
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	line-height: 18px;
 	letter-spacing: 0px;
 	background-color: transparent;
 	font-size: 18px;
-	line-height: 18px;
-	text-transform: none;
 	font-style: italic;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	text-transform: none;
 }
 
-#u114-61
+#u114-65
 {
-	text-align: left;
-	text-indent: -5px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	text-indent: -5px;
 	background-color: transparent;
+	text-align: left;
 }
 
 #u114
@@ -52,12 +52,12 @@
 	padding-left: 5px;
 }
 
-#u114-24
+#u114-27
 {
 	padding-left: 5px;
 }
 
-#u114-26
+#u114-28
 {
 	padding-left: 5px;
 }
@@ -72,24 +72,24 @@
 	padding-left: 5px;
 }
 
-#u114-35
+#u114-38
 {
 	padding-left: 5px;
 }
 
-#u114-37
+#u114-39
 {
 	padding-left: 5px;
-}
-
-#u114-25,#u114-36
-{
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u114-41
 {
 	padding-left: 5px;
+}
+
+#u114-29,#u114-40
+{
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u114-45
@@ -107,17 +107,22 @@
 	padding-left: 5px;
 }
 
-#u114-54
+#u114-57
 {
 	padding-left: 5px;
 }
 
-#u114-55
+#u114-58
 {
 	padding-left: 5px;
 }
 
 #u114-59
+{
+	padding-left: 5px;
+}
+
+#u114-63
 {
 	padding-left: 5px;
 }
