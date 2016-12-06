@@ -15,35 +15,26 @@
 		max-width: 1345px;
 	}
 
-	#pu14302-4
+	#pu14302-6
 	{
+		padding-bottom: 0px;
 		margin-top: 72px;
 	}
 
-	#u14302-4
+	#u14302-6
 	{
 		width: 396px;
+		min-height: 35px;
 	}
 
-	#pu14103
+	#pu114-72
 	{
-		margin-top: 9px;
+		margin-top: 8px;
 	}
 
-	#u14103
-	{
-		margin-top: 358px;
-	}
-
-	#u114-65
+	#u114-72
 	{
 		min-height: 358px;
-	}
-
-	#u2439
-	{
-		margin-top: 479px;
-		left: 2.01%;
 	}
 
 	#slideshowu12294
@@ -91,6 +82,17 @@
 		width: 551px;
 		min-height: 691px;
 		left: 527px;
+	}
+
+	#u14103
+	{
+		left: 428px;
+	}
+
+	#u2439
+	{
+		margin-top: 25px;
+		left: 32.35%;
 	}
 
 	#u16340

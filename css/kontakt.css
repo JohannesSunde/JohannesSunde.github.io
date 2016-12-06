@@ -1,93 +1,83 @@
 .version.kontakt /* version checker */
 {
-	color: #000012;
-	background-color: #89BDFB;
+	color: #0000E0;
+	background-color: #6B0789;
 }
 
 #u17164
 {
 	bottom: 20px;
-	width: 25px;
-	z-index: 73;
 	right: 55px;
+	z-index: 76;
+	width: 25px;
 	position: fixed;
 }
 
 #u17158
 {
 	bottom: 20px;
-	width: 25px;
-	z-index: 75;
 	right: 20px;
+	z-index: 78;
+	width: 25px;
 	position: fixed;
 }
 
 #page
 {
-	border-color: #000000;
+	background-color: transparent;
 	background-image: none;
-	margin-right: auto;
 	border-width: 0px;
 	margin-left: auto;
-	width: 100%;
+	margin-right: auto;
 	z-index: 1;
-	background-color: transparent;
+	border-color: #000000;
+	width: 100%;
 }
 
-#pu17163-4
+#pu19209-6
 {
-	margin-left: 20px;
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
 }
 
-#u17163-4
+#u19209-6
 {
+	z-index: 80;
 	position: relative;
-	z-index: 69;
-	min-height: 35px;
-}
-
-#pu17156
-{
-	width: 0.01px;
 }
 
 #u17156
 {
-	margin-right: -10000px;
-	position: relative;
-	width: 99px;
-	z-index: 2;
 	min-height: 80px;
+	position: relative;
+	margin-right: -10000px;
+	z-index: 2;
+	width: 99px;
 }
 
-#u17157-65
+#u17157-72
 {
-	width: 187px;
 	z-index: 3;
-	margin-right: -10000px;
+	width: 187px;
 	position: relative;
+}
+
+#u15689-19
+{
+	min-height: 359px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	text-align: center;
+	z-index: 86;
 }
 
 #u17160
 {
-	margin-right: -10000px;
-	position: relative;
-	width: 35px;
-	z-index: 68;
 	min-height: 35px;
-}
-
-#u15689-17
-{
-	min-height: 359px;
-	margin-right: -10000px;
-	text-align: center;
-	z-index: 77;
-	background-color: transparent;
 	position: relative;
+	margin-right: -10000px;
+	z-index: 75;
+	width: 35px;
 }
 
 #u17164_img
@@ -127,43 +117,43 @@ body
 
 	#page
 	{
-		min-height: 554px;
-		padding-bottom: 266px;
+		min-height: 541px;
+		padding-bottom: 279px;
 		max-width: 1345px;
 	}
 
-	#pu17163-4
+	#pu19209-6
 	{
+		margin-right: -10000px;
 		margin-top: 72px;
+		margin-left: 20px;
 	}
 
-	#u17163-4
+	#u19209-6
 	{
 		width: 396px;
+		min-height: 35px;
 	}
 
-	#pu17156
+	#u17157-72
 	{
-		margin-top: 9px;
+		min-height: 358px;
+		margin-top: 8px;
 	}
 
 	#u17156
 	{
-		margin-top: 358px;
-	}
-
-	#u17157-65
-	{
-		min-height: 358px;
+		margin-top: 20px;
+		left: 435px;
 	}
 
 	#u17160
 	{
-		margin-top: 479px;
-		left: 2.01%;
+		margin-top: 25px;
+		left: 32.87%;
 	}
 
-	#u15689-17
+	#u15689-19
 	{
 		margin-top: 116px;
 		left: 455px;
@@ -186,42 +176,55 @@ body
 
 	#page
 	{
-		min-height: 524px;
-		padding-bottom: 294px;
+		min-height: 525px;
+		padding-bottom: 293px;
 		max-width: 1294px;
 	}
 
-	#pu17163-4
+	#ppu19209-6
 	{
-		margin-top: 65px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		margin-left: 20px;
+		width: 48.38%;
 	}
 
-	#u17163-4
+	#u19209-6
 	{
 		width: 381px;
+		min-height: 35px;
+		margin-right: -10000px;
+		margin-top: 44px;
 	}
 
 	#u17156
 	{
-		margin-top: 344px;
+		left: 388px;
 	}
 
-	#u17157-65
+	#pu17157-72
+	{
+		margin-top: -1px;
+		width: 100%;
+	}
+
+	#u17157-72
 	{
 		min-height: 401px;
+		margin-right: -10000px;
+		margin-top: 1px;
+	}
+
+	#u15689-19
+	{
+		left: 207px;
+		width: 66.94%;
 	}
 
 	#u17160
 	{
-		margin-top: 416px;
-		left: 2.01%;
-	}
-
-	#u15689-17
-	{
-		margin-top: 99px;
-		left: 227px;
-		width: 32.39%;
+		margin-top: 29px;
+		left: 31.54%;
 	}
 
 }
@@ -240,42 +243,55 @@ body
 
 	#page
 	{
-		min-height: 574px;
-		padding-bottom: 246px;
+		min-height: 525px;
+		padding-bottom: 295px;
 		max-width: 1000px;
 	}
 
-	#pu17163-4
+	#ppu19209-6
 	{
-		margin-top: 65px;
+		margin-right: -10000px;
+		margin-top: 20px;
+		margin-left: 20px;
+		width: 53%;
 	}
 
-	#u17163-4
+	#u19209-6
 	{
 		width: 294px;
+		min-height: 50px;
+		margin-right: -10000px;
+		margin-top: 30px;
 	}
 
 	#u17156
 	{
-		margin-top: 394px;
+		left: 301px;
 	}
 
-	#u17157-65
+	#pu17157-72
+	{
+		margin-top: -1px;
+		width: 100%;
+	}
+
+	#u17157-72
 	{
 		min-height: 403px;
+		margin-right: -10000px;
+		margin-top: 1px;
+	}
+
+	#u15689-19
+	{
+		left: 207px;
+		width: 60.95%;
 	}
 
 	#u17160
 	{
-		margin-top: 496px;
-		left: 2%;
-	}
-
-	#u15689-17
-	{
-		margin-top: 99px;
-		left: 227px;
-		width: 32.31%;
+		margin-top: 22px;
+		left: 32.1%;
 	}
 
 	body
