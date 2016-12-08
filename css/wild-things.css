@@ -1,44 +1,44 @@
 .version.wild_things /* version checker */
 {
-	color: #00001D;
-	background-color: #9AFC4C;
+	color: #0000E8;
+	background-color: #FA06A9;
 }
 
 #page
 {
-	background-color: transparent;
 	background-image: none;
-	border-width: 0px;
-	margin-left: auto;
+	background-color: transparent;
 	margin-right: auto;
-	z-index: 1;
 	border-color: #000000;
 	width: 100%;
+	z-index: 1;
+	border-width: 0px;
+	margin-left: auto;
 }
 
 #pu14302-6
 {
-	margin-left: 20px;
 	margin-right: -10000px;
 	width: 0.01px;
+	margin-left: 20px;
 }
 
 #u14302-6
 {
-	z-index: 76;
+	z-index: 77;
 	position: relative;
 }
 
-#pu114-72
+#pu114-73
 {
 	width: 0.01px;
 }
 
-#u114-72
+#u114-73
 {
 	margin-right: -10000px;
-	z-index: 3;
 	width: 187px;
+	z-index: 3;
 	position: relative;
 }
 
@@ -47,43 +47,43 @@
 	left: 207px;
 	position: relative;
 	margin-right: -10000px;
-	z-index: 88;
 	width: 0.01px;
+	z-index: 89;
 }
 
 #u16831popup
 {
-	z-index: 89;
+	z-index: 90;
 }
 
 #u16832
 {
-	background-color: transparent;
-	border-width: 0px;
-	border-color: transparent;
-	margin-right: -10000px;
-	z-index: 90;
 	position: relative;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-color: transparent;
+	z-index: 91;
+	border-width: 0px;
 }
 
 #u16971
 {
-	background-color: transparent;
-	border-width: 0px;
-	border-color: transparent;
-	margin-right: -10000px;
-	z-index: 92;
 	position: relative;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-color: transparent;
+	z-index: 93;
+	border-width: 0px;
 }
 
 #u17013
 {
-	background-color: transparent;
-	border-width: 0px;
-	border-color: transparent;
-	margin-right: -10000px;
-	z-index: 94;
 	position: relative;
+	background-color: transparent;
+	margin-right: -10000px;
+	border-color: transparent;
+	z-index: 95;
+	border-width: 0px;
 }
 
 #u16831,#u16833
@@ -94,91 +94,91 @@
 
 #u16833popup
 {
-	z-index: 96;
+	z-index: 97;
 }
 
 #u16834-4
 {
-	color: #999999;
-	border-width: 0px;
-	position: relative;
-	margin-right: -10000px;
-	border-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	padding: 10px;
+	color: #999999;
 	background-color: #FFFFFF;
+	margin-right: -10000px;
 	line-height: 20px;
+	border-color: transparent;
+	border-width: 0px;
+	padding: 10px;
+	position: relative;
 	text-align: left;
-	z-index: 97;
+	z-index: 98;
 }
 
 #u16995-4
 {
-	color: #999999;
-	border-width: 0px;
-	position: relative;
-	margin-right: -10000px;
-	border-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	padding: 10px;
+	color: #999999;
 	background-color: #FFFFFF;
+	margin-right: -10000px;
 	line-height: 20px;
+	border-color: transparent;
+	border-width: 0px;
+	padding: 10px;
+	position: relative;
 	text-align: left;
-	z-index: 101;
+	z-index: 102;
 }
 
 #u17037-4
 {
-	color: #999999;
-	border-width: 0px;
-	position: relative;
-	margin-right: -10000px;
-	border-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	padding: 10px;
+	color: #999999;
 	background-color: #FFFFFF;
+	margin-right: -10000px;
 	line-height: 20px;
+	border-color: transparent;
+	border-width: 0px;
+	padding: 10px;
+	position: relative;
 	text-align: left;
-	z-index: 105;
+	z-index: 106;
 }
 
 #u16826-4
 {
-	border-width: 0px;
-	position: absolute;
-	border-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	min-height: 20px;
-	padding: 10px;
 	background-color: #FFFFFF;
 	line-height: 20px;
+	border-color: transparent;
+	border-width: 0px;
+	padding: 10px;
+	min-height: 20px;
+	position: absolute;
 	text-align: center;
 	width: 48px;
 }
 
 #u16826-4popup
 {
-	z-index: 109;
+	z-index: 110;
 }
 
 #u16835-4
 {
-	opacity: 0;
-	border-width: 0px;
-	position: absolute;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-	border-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	padding: 10px;
+	border-color: transparent;
+	position: absolute;
 	background-color: transparent;
 	line-height: 20px;
+	filter: alpha(opacity=0);
+	border-width: 0px;
+	padding: 10px;
+	opacity: 0;
 	text-align: center;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
 
 #u16835-4popup
 {
-	z-index: 113;
+	z-index: 114;
 }
 
 #u16826,#u16835
@@ -188,23 +188,23 @@
 
 #u16837-4
 {
-	color: #999999;
-	opacity: 0;
-	border-width: 0px;
-	position: absolute;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-	border-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	padding: 10px;
+	color: #999999;
+	position: absolute;
 	background-color: transparent;
 	line-height: 20px;
 	text-align: center;
+	filter: alpha(opacity=0);
+	border-width: 0px;
+	padding: 10px;
+	opacity: 0;
+	border-color: transparent;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 }
 
 #u16837-4popup
 {
-	z-index: 117;
+	z-index: 118;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton
@@ -219,12 +219,12 @@
 
 #u14103
 {
+	margin-top: 20px;
 	min-height: 80px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 20px;
-	z-index: 2;
 	width: 99px;
+	z-index: 2;
 }
 
 #u2439
@@ -232,46 +232,46 @@
 	min-height: 35px;
 	position: relative;
 	margin-right: -10000px;
-	z-index: 75;
 	width: 35px;
+	z-index: 76;
 }
 
 #u16340
 {
 	position: relative;
 	margin-right: -10000px;
-	z-index: 86;
+	z-index: 87;
 }
 
 #u14502
 {
 	bottom: 20px;
-	right: 55px;
-	z-index: 82;
 	width: 25px;
+	z-index: 83;
+	right: 55px;
 	position: fixed;
 }
 
 #u14502_img
 {
-	margin-left: 1px;
 	margin-right: -1px;
+	margin-left: 1px;
 }
 
 #u14506
 {
 	bottom: 20px;
-	right: 20px;
-	z-index: 84;
 	width: 25px;
+	z-index: 85;
+	right: 20px;
 	position: fixed;
 }
 
 #u14506_img
 {
-	margin-left: -4px;
 	margin-right: 5px;
 	margin-bottom: 1px;
+	margin-left: -4px;
 }
 
 .html
@@ -314,12 +314,12 @@ body
 		min-height: 35px;
 	}
 
-	#pu114-72
+	#pu114-73
 	{
 		margin-top: 8px;
 	}
 
-	#u114-72
+	#u114-73
 	{
 		min-height: 358px;
 	}
@@ -430,12 +430,12 @@ body
 		min-height: 35px;
 	}
 
-	#pu114-72
+	#pu114-73
 	{
 		margin-top: -1px;
 	}
 
-	#u114-72
+	#u114-73
 	{
 		min-height: 401px;
 	}
@@ -533,7 +533,7 @@ body
 		min-height: 50px;
 	}
 
-	#u114-72
+	#u114-73
 	{
 		min-height: 403px;
 	}

@@ -1,12 +1,12 @@
 #u19209-6
 {
-	font-style: italic;
-	line-height: 18px;
-	background-color: transparent;
-	font-size: 18px;
-	text-transform: none;
-	letter-spacing: 0px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-style: italic;
+	text-transform: none;
+	background-color: transparent;
+	line-height: 18px;
+	font-size: 18px;
+	letter-spacing: 0px;
 }
 
 #u19209
@@ -14,12 +14,12 @@
 	visibility: hidden;/* 100% transparent text is hidden */
 }
 
-#u17157-72
+#u17157-73
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	text-align: left;
-	background-color: transparent;
 	text-indent: -5px;
+	background-color: transparent;
 }
 
 #u17157
@@ -29,8 +29,8 @@
 
 #u17157-3
 {
-	font-style: italic;
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-7
@@ -70,8 +70,8 @@
 
 #u17157-30
 {
-	font-style: italic;
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-34
@@ -96,14 +96,14 @@
 
 #u17157-45
 {
-	font-style: italic;
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-49
 {
-	font-style: italic;
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-46
@@ -136,7 +136,12 @@
 	padding-left: 5px;
 }
 
-#u17157-70
+#u17157-67
+{
+	padding-left: 5px;
+}
+
+#u17157-71
 {
 	padding-left: 5px;
 }
@@ -144,8 +149,8 @@
 #u17156,#u17160
 {
 	border-color: transparent;
-	background-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
 }
 
 #u17164,#u17158
