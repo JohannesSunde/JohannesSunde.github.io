@@ -15,12 +15,12 @@
 		max-width: 1345px;
 	}
 
-	#pu19209-6
+	#pu19209-5
 	{
 		margin-top: 72px;
 	}
 
-	#u19209-6
+	#u19209-5
 	{
 		width: 396px;
 		min-height: 35px;
@@ -81,6 +81,13 @@
 		width: 506px;
 		min-height: 691px;
 		left: 527px;
+	}
+
+	#u19629-4
+	{
+		width: 1055px;
+		bottom: 24px;
+		margin-left: -445px;
 	}
 
 	#u17156

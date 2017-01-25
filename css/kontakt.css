@@ -1,57 +1,50 @@
 .version.kontakt /* version checker */
 {
-	color: #000001;
-	background-color: #5BAAE2;
+	color: #0000F5;
+	background-color: #9AE84B;
 }
 
 #u17164
 {
+	z-index: 77;
 	bottom: 20px;
 	width: 25px;
-	z-index: 77;
 	right: 55px;
 	position: fixed;
 }
 
 #u17158
 {
+	z-index: 79;
 	bottom: 20px;
 	width: 25px;
-	z-index: 79;
 	right: 20px;
 	position: fixed;
 }
 
 #page
 {
-	background-image: none;
+	margin-left: auto;
+	border-color: #000000;
 	background-color: transparent;
 	margin-right: auto;
-	border-color: #000000;
-	width: 100%;
-	z-index: 1;
 	border-width: 0px;
-	margin-left: auto;
+	width: 100%;
+	background-image: none;
+	z-index: 1;
 }
 
-#pu19209-6
+#pu19209-5
 {
+	margin-left: 20px;
 	width: 0.01px;
-}
-
-#u19209-6
-{
-	z-index: 81;
-	position: relative;
-}
-
-#u17156
-{
-	min-height: 80px;
-	position: relative;
 	margin-right: -10000px;
-	width: 99px;
-	z-index: 2;
+}
+
+#u19209-5
+{
+	position: relative;
+	z-index: 81;
 }
 
 #u17157-73
@@ -61,36 +54,53 @@
 	position: relative;
 }
 
-#u15689-18
+#u19629-4
 {
-	min-height: 359px;
-	position: relative;
+	left: 50%;
+	position: fixed;
+	min-height: 11px;
+	z-index: 104;
+}
+
+#u17156
+{
 	margin-right: -10000px;
-	text-align: center;
-	z-index: 87;
-	background-color: transparent;
+	position: relative;
+	min-height: 80px;
+	width: 99px;
+	margin-top: 20px;
+	z-index: 2;
 }
 
 #u17160
 {
-	min-height: 35px;
-	position: relative;
 	margin-right: -10000px;
+	position: relative;
+	min-height: 35px;
 	width: 35px;
 	z-index: 76;
 }
 
+#u15689-18
+{
+	margin-right: -10000px;
+	position: relative;
+	background-color: transparent;
+	text-align: center;
+	z-index: 86;
+}
+
 #u17164_img
 {
-	margin-right: -1px;
 	margin-left: 1px;
+	margin-right: -1px;
 }
 
 #u17158_img
 {
+	margin-left: -4px;
 	margin-right: 5px;
 	margin-bottom: 1px;
-	margin-left: -4px;
 }
 
 .html
@@ -122,14 +132,12 @@ body
 		max-width: 1345px;
 	}
 
-	#pu19209-6
+	#pu19209-5
 	{
-		margin-right: -10000px;
 		margin-top: 72px;
-		margin-left: 20px;
 	}
 
-	#u19209-6
+	#u19209-5
 	{
 		width: 396px;
 		min-height: 35px;
@@ -141,9 +149,15 @@ body
 		margin-top: 8px;
 	}
 
+	#u19629-4
+	{
+		width: 1055px;
+		bottom: 24px;
+		margin-left: -445px;
+	}
+
 	#u17156
 	{
-		margin-top: 20px;
 		left: 435px;
 	}
 
@@ -155,8 +169,9 @@ body
 
 	#u15689-18
 	{
+		min-height: 375px;
 		margin-top: 116px;
-		left: 455px;
+		left: 539px;
 		width: 32.35%;
 	}
 
@@ -181,50 +196,47 @@ body
 		max-width: 1294px;
 	}
 
-	#ppu19209-6
+	#pu19209-5
 	{
-		margin-right: -10000px;
-		margin-top: 20px;
-		margin-left: 20px;
-		width: 48.38%;
+		padding-bottom: 0px;
+		margin-top: 64px;
 	}
 
-	#u19209-6
+	#u19209-5
 	{
 		width: 381px;
 		min-height: 35px;
-		margin-right: -10000px;
-		margin-top: 44px;
-	}
-
-	#u17156
-	{
-		left: 388px;
-	}
-
-	#pu17157-73
-	{
-		margin-top: -1px;
-		width: 100%;
 	}
 
 	#u17157-73
 	{
 		min-height: 401px;
-		margin-right: -10000px;
-		margin-top: 1px;
 	}
 
-	#u15689-18
+	#u19629-4
 	{
-		left: 207px;
-		width: 66.94%;
+		width: 773px;
+		bottom: 24px;
+		margin-left: -420px;
+	}
+
+	#u17156
+	{
+		left: 408px;
 	}
 
 	#u17160
 	{
 		margin-top: 29px;
 		left: 31.54%;
+	}
+
+	#u15689-18
+	{
+		min-height: 374px;
+		margin-top: 100px;
+		left: 416px;
+		width: 32.39%;
 	}
 
 }
@@ -248,50 +260,47 @@ body
 		max-width: 1000px;
 	}
 
-	#ppu19209-6
+	#pu19209-5
 	{
-		margin-right: -10000px;
-		margin-top: 20px;
-		margin-left: 20px;
-		width: 53%;
+		padding-bottom: 0px;
+		margin-top: 50px;
 	}
 
-	#u19209-6
+	#u19209-5
 	{
 		width: 294px;
 		min-height: 50px;
-		margin-right: -10000px;
-		margin-top: 30px;
-	}
-
-	#u17156
-	{
-		left: 301px;
-	}
-
-	#pu17157-73
-	{
-		margin-top: -1px;
-		width: 100%;
 	}
 
 	#u17157-73
 	{
 		min-height: 403px;
-		margin-right: -10000px;
-		margin-top: 1px;
 	}
 
-	#u15689-18
+	#u19629-4
 	{
-		left: 207px;
-		width: 60.95%;
+		width: 573px;
+		bottom: 26px;
+		margin-left: -273px;
+	}
+
+	#u17156
+	{
+		left: 321px;
 	}
 
 	#u17160
 	{
 		margin-top: 22px;
 		left: 32.1%;
+	}
+
+	#u15689-18
+	{
+		min-height: 374px;
+		margin-top: 100px;
+		left: 416px;
+		width: 32.31%;
 	}
 
 	body

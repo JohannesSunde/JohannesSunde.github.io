@@ -15,14 +15,12 @@
 		max-width: 1345px;
 	}
 
-	#pu19209-6
+	#pu19209-5
 	{
-		margin-right: -10000px;
 		margin-top: 72px;
-		margin-left: 20px;
 	}
 
-	#u19209-6
+	#u19209-5
 	{
 		width: 396px;
 		min-height: 35px;
@@ -34,9 +32,15 @@
 		margin-top: 8px;
 	}
 
+	#u19629-4
+	{
+		width: 1055px;
+		bottom: 24px;
+		margin-left: -445px;
+	}
+
 	#u17156
 	{
-		margin-top: 20px;
 		left: 435px;
 	}
 
@@ -48,8 +52,9 @@
 
 	#u15689-18
 	{
+		min-height: 375px;
 		margin-top: 116px;
-		left: 455px;
+		left: 539px;
 		width: 32.35%;
 	}
 
