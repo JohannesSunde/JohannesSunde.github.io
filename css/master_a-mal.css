@@ -1,20 +1,20 @@
 #u14302-5
 {
 	font-size: 18px;
-	font-style: italic;
-	line-height: 18px;
 	text-transform: none;
-	background-color: transparent;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	letter-spacing: 0px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	line-height: 18px;
+	background-color: transparent;
+	font-style: italic;
 }
 
-#u114-73
+#u114-81
 {
-	text-indent: -5px;
-	background-color: transparent;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	text-align: left;
+	background-color: transparent;
+	text-indent: -5px;
 }
 
 #u114
@@ -84,15 +84,14 @@
 	padding-left: 5px;
 }
 
-#u114-43
+#u114-46
 {
 	padding-left: 5px;
 }
 
-#u114-45
+#u114-47
 {
 	padding-left: 5px;
-	font-style: italic;
 }
 
 #u114-49
@@ -101,19 +100,21 @@
 	font-style: italic;
 }
 
-#u114-46
-{
-	font-style: normal;
-}
-
 #u114-53
 {
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u114-57
 {
 	padding-left: 5px;
+	font-style: italic;
+}
+
+#u114-50,#u114-54
+{
+	font-style: normal;
 }
 
 #u114-61
@@ -126,36 +127,46 @@
 	padding-left: 5px;
 }
 
-#u114-66
+#u114-69
 {
 	padding-left: 5px;
 }
 
-#u114-67
+#u114-73
 {
 	padding-left: 5px;
 }
 
-#u114-71
+#u114-74
+{
+	padding-left: 5px;
+}
+
+#u114-75
+{
+	padding-left: 5px;
+}
+
+#u114-79
 {
 	padding-left: 5px;
 }
 
 #u19225-4
 {
-	font-size: 12px;
-	line-height: 14px;
 	color: #7F7F7F;
-	background-color: transparent;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	text-align: center;
+	line-height: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-size: 12px;
+	background-color: transparent;
 }
 
 #u14103,#u2439
 {
-	border-color: transparent;
-	background-color: transparent;
 	border-width: 0px;
+	background-color: transparent;
+	border-color: transparent;
 }
 
 #u16340,#u14502,#u14506
