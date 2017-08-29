@@ -1,61 +1,63 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1490213030084">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1504009734472">
   <folder name="css">
-    <file name="site_global.css" crc="457258267"/>
-    <file name="master_a-mal.css" crc="459245434" ref="index:fredrik-lund:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:fredrik-lund:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="index.css" crc="3825824433" ref="index"/>
-    <file name="nomq_index.css" crc="533894945" ref="index"/>
-    <file name="l_nn_-sierru.css" crc="195662491" ref="lønn,-sierru"/>
-    <file name="nomq_l_nn_-sierru.css" crc="3798733573" ref="lønn,-sierru"/>
-    <file name="fredrik-lund.css" crc="4072329520" ref="fredrik-lund"/>
-    <file name="nomq_fredrik-lund.css" crc="4278229727" ref="fredrik-lund"/>
-    <file name="ambassad_ren.css" crc="229021847" ref="ambassadøren"/>
-    <file name="nomq_ambassad_ren.css" crc="4237597639" ref="ambassadøren"/>
-    <file name="marit.css" crc="508443983" ref="marit"/>
-    <file name="nomq_marit.css" crc="523977637" ref="marit"/>
-    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="96236369" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4086678722" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
-    <file name="wtf-tkm_.css" crc="4082901170" ref="wtf-tkm!"/>
-    <file name="nomq_wtf-tkm_.css" crc="456508225" ref="wtf-tkm!"/>
-    <file name="kristine-wathne.css" crc="3884350681" ref="kristine-wathne"/>
-    <file name="nomq_kristine-wathne.css" crc="4168814735" ref="kristine-wathne"/>
-    <file name="ici-ou-ailleurs.css" crc="3897389276" ref="ici-ou-ailleurs"/>
-    <file name="nomq_ici-ou-ailleurs.css" crc="4209472884" ref="ici-ou-ailleurs"/>
-    <file name="kontakt.css" crc="3887682137" ref="kontakt"/>
-    <file name="nomq_kontakt.css" crc="4154392142" ref="kontakt"/>
-    <file name="wild-things.css" crc="3799458990" ref="wild-things"/>
-    <file name="nomq_wild-things.css" crc="4001317832" ref="wild-things"/>
-    <file name="habibi.css" crc="144234269" ref="habibi"/>
-    <file name="nomq_habibi.css" crc="4148181913" ref="habibi"/>
-    <file name="master_b-mal.css" crc="4179439233" ref="kontakt:lønn,-sierru"/>
+    <file name="site_global.css" crc="3873840565"/>
+    <file name="master_a-mal.css" crc="4220448357" ref="index:fredrik-lund:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="nomq_preview_master_a-mal.css" crc="321525473" ref="index:fredrik-lund:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="index.css" crc="427484947" ref="index"/>
+    <file name="nomq_index.css" crc="4146536144" ref="index"/>
+    <file name="l_nn_-sierru.css" crc="39742693" ref="lønn,-sierru"/>
+    <file name="nomq_l_nn_-sierru.css" crc="3885013749" ref="lønn,-sierru"/>
+    <file name="fredrik-lund.css" crc="307807204" ref="fredrik-lund"/>
+    <file name="nomq_fredrik-lund.css" crc="4213295048" ref="fredrik-lund"/>
+    <file name="ambassad_ren.css" crc="3984673563" ref="ambassadøren"/>
+    <file name="nomq_ambassad_ren.css" crc="4156753846" ref="ambassadøren"/>
+    <file name="marit.css" crc="4113085794" ref="marit"/>
+    <file name="nomq_marit.css" crc="8316717" ref="marit"/>
+    <file name="det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="4128976287" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="nomq_det-er-bedre-_-kappe-det-av-enn-_-g_-gjennom-livet.css" crc="27351535" ref="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet"/>
+    <file name="wtf-tkm_.css" crc="3833621149" ref="wtf-tkm!"/>
+    <file name="nomq_wtf-tkm_.css" crc="3906731349" ref="wtf-tkm!"/>
+    <file name="kristine-wathne.css" crc="387027026" ref="kristine-wathne"/>
+    <file name="nomq_kristine-wathne.css" crc="349672298" ref="kristine-wathne"/>
+    <file name="ici-ou-ailleurs.css" crc="460456360" ref="ici-ou-ailleurs"/>
+    <file name="nomq_ici-ou-ailleurs.css" crc="55120007" ref="ici-ou-ailleurs"/>
+    <file name="kontakt.css" crc="3942735656" ref="kontakt"/>
+    <file name="nomq_kontakt.css" crc="4096550147" ref="kontakt"/>
+    <file name="wild-things.css" crc="4200981762" ref="wild-things"/>
+    <file name="nomq_wild-things.css" crc="73701441" ref="wild-things"/>
+    <file name="habibi.css" crc="138398831" ref="habibi"/>
+    <file name="nomq_habibi.css" crc="4138192178" ref="habibi"/>
+    <file name="master_b-mal.css" crc="3881491109" ref="kontakt:lønn,-sierru"/>
     <file name="nomq_preview_master_b-mal.css" crc="321525473" ref="kontakt:lønn,-sierru"/>
-    <file name="oslo-runway-ss17.css" crc="4231645847" ref="oslo-runway-ss17"/>
-    <file name="nomq_oslo-runway-ss17.css" crc="344259668" ref="oslo-runway-ss17"/>
-    <file name="improvisasjon_-balletth_gskolen.css" crc="4103481038" ref="improvisasjon,-balletthøgskolen"/>
-    <file name="nomq_improvisasjon_-balletth_gskolen.css" crc="4196312559" ref="improvisasjon,-balletthøgskolen"/>
-    <file name="arkitektstudentens-hjem.css" crc="3918347724" ref="arkitektstudentens-hjem"/>
-    <file name="nomq_arkitektstudentens-hjem.css" crc="376362198" ref="arkitektstudentens-hjem"/>
-    <file name="br_drene-karamasov.css" crc="4139094392" ref="brødrene-karamasov"/>
-    <file name="nomq_br_drene-karamasov.css" crc="3898648185" ref="brødrene-karamasov"/>
-    <file name="oslo-runway-aw17.css" crc="4197108919" ref="oslo-runway-aw17"/>
-    <file name="nomq_oslo-runway-aw17.css" crc="3946286356" ref="oslo-runway-aw17"/>
+    <file name="oslo-runway-ss17.css" crc="3813462452" ref="oslo-runway-ss17"/>
+    <file name="nomq_oslo-runway-ss17.css" crc="116431736" ref="oslo-runway-ss17"/>
+    <file name="improvisasjon_-balletth_gskolen.css" crc="45885940" ref="improvisasjon,-balletthøgskolen"/>
+    <file name="nomq_improvisasjon_-balletth_gskolen.css" crc="404328057" ref="improvisasjon,-balletthøgskolen"/>
+    <file name="arkitektstudentens-hjem.css" crc="4245315825" ref="arkitektstudentens-hjem"/>
+    <file name="nomq_arkitektstudentens-hjem.css" crc="68858874" ref="arkitektstudentens-hjem"/>
+    <file name="br_drene-karamasov.css" crc="3985435941" ref="brødrene-karamasov"/>
+    <file name="nomq_br_drene-karamasov.css" crc="407407232" ref="brødrene-karamasov"/>
+    <file name="oslo-runway-aw17.css" crc="201172559" ref="oslo-runway-aw17"/>
+    <file name="nomq_oslo-runway-aw17.css" crc="4259613114" ref="oslo-runway-aw17"/>
+    <file name="matauk.css" crc="3794345464" ref="matauk"/>
+    <file name="nomq_matauk.css" crc="287226001" ref="matauk"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="museutils.js" crc="3790713428" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="whatinput.js" crc="84559013" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="webpro.js" crc="329496574" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="touchswipe.js" crc="497316881" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="museutils.js" crc="3790713428" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="whatinput.js" crc="84559013" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="webpro.js" crc="329496574" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4070288207" ref="habibi"/>
-    <file name="blank.gif" crc="4208392903" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="loading.gif" crc="3815509949" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="instagram2.png" crc="133841762" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
+    <file name="blank.gif" crc="4208392903" ref="index:wtf-tkm!:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:ici-ou-ailleurs:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="loading.gif" crc="3815509949" ref="index:wtf-tkm!:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:ici-ou-ailleurs:fredrik-lund:lønn,-sierru:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="instagram2.png" crc="133841762" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
     <file name="juni2016.jpg" crc="89942166" seo="true" ref="habibi"/>
     <file name="juni2016_2x.jpg" crc="36382703" seo="true" ref="habibi"/>
     <file name="juni20162.jpg" crc="3840893651" seo="true" ref="habibi"/>
@@ -219,30 +221,30 @@
     <file name="juni201622574x387_2x.jpg" crc="3894770364" seo="true" ref="fredrik-lund"/>
     <file name="juni201623574x387.jpg" crc="191294778" seo="true" ref="fredrik-lund"/>
     <file name="juni201623574x387_2x.jpg" crc="3845951651" seo="true" ref="fredrik-lund"/>
-    <file name="juni201627.jpg" crc="344815793" seo="true" ref="index"/>
-    <file name="juni201627_2x.jpg" crc="4069832457" seo="true" ref="index"/>
-    <file name="juni201628.jpg" crc="3792466637" seo="true" ref="index"/>
-    <file name="juni201628_2x.jpg" crc="102639786" seo="true" ref="index"/>
-    <file name="juni201629.jpg" crc="19734380" seo="true" ref="index"/>
-    <file name="juni201629_2x.jpg" crc="3959061701" seo="true" ref="index"/>
-    <file name="juni201630.jpg" crc="522134437" seo="true" ref="index"/>
-    <file name="juni201630_2x.jpg" crc="4103495701" seo="true" ref="index"/>
-    <file name="juni201627773x521.jpg" crc="114406188" seo="true" ref="index"/>
-    <file name="juni201627773x521_2x.jpg" crc="7162018" seo="true" ref="index"/>
-    <file name="juni201628773x521.jpg" crc="172179630" seo="true" ref="index"/>
-    <file name="juni201628773x521_2x.jpg" crc="176998594" seo="true" ref="index"/>
-    <file name="juni201629773x521.jpg" crc="4045872018" seo="true" ref="index"/>
-    <file name="juni201629773x521_2x.jpg" crc="79863786" seo="true" ref="index"/>
-    <file name="juni201630773x521.jpg" crc="297920985" seo="true" ref="index"/>
-    <file name="juni201630773x521_2x.jpg" crc="346872442" seo="true" ref="index"/>
-    <file name="juni201627574x387.jpg" crc="4225465421" seo="true" ref="index"/>
-    <file name="juni201627574x387_2x.jpg" crc="228532187" seo="true" ref="index"/>
-    <file name="juni201628574x387.jpg" crc="9532529" seo="true" ref="index"/>
-    <file name="juni201628574x387_2x.jpg" crc="386029677" seo="true" ref="index"/>
-    <file name="juni201629574x387.jpg" crc="3867961768" seo="true" ref="index"/>
-    <file name="juni201629574x387_2x.jpg" crc="4265011791" seo="true" ref="index"/>
-    <file name="juni201630574x387.jpg" crc="3890904021" seo="true" ref="index"/>
-    <file name="juni201630574x387_2x.jpg" crc="28260293" seo="true" ref="index"/>
+    <file name="juni201627.jpg" crc="344815793" seo="true" ref="matauk"/>
+    <file name="juni201627_2x.jpg" crc="4069832457" seo="true" ref="matauk"/>
+    <file name="juni201628.jpg" crc="3792466637" seo="true" ref="matauk"/>
+    <file name="juni201628_2x.jpg" crc="102639786" seo="true" ref="matauk"/>
+    <file name="juni201629.jpg" crc="19734380" seo="true" ref="matauk"/>
+    <file name="juni201629_2x.jpg" crc="3959061701" seo="true" ref="matauk"/>
+    <file name="juni201630.jpg" crc="522134437" seo="true" ref="matauk"/>
+    <file name="juni201630_2x.jpg" crc="4103495701" seo="true" ref="matauk"/>
+    <file name="juni201627773x521.jpg" crc="114406188" seo="true" ref="matauk"/>
+    <file name="juni201627773x521_2x.jpg" crc="7162018" seo="true" ref="matauk"/>
+    <file name="juni201628773x521.jpg" crc="172179630" seo="true" ref="matauk"/>
+    <file name="juni201628773x521_2x.jpg" crc="176998594" seo="true" ref="matauk"/>
+    <file name="juni201629773x521.jpg" crc="4045872018" seo="true" ref="matauk"/>
+    <file name="juni201629773x521_2x.jpg" crc="79863786" seo="true" ref="matauk"/>
+    <file name="juni201630773x521.jpg" crc="297920985" seo="true" ref="matauk"/>
+    <file name="juni201630773x521_2x.jpg" crc="346872442" seo="true" ref="matauk"/>
+    <file name="juni201627574x387.jpg" crc="4225465421" seo="true" ref="matauk"/>
+    <file name="juni201627574x387_2x.jpg" crc="228532187" seo="true" ref="matauk"/>
+    <file name="juni201628574x387.jpg" crc="9532529" seo="true" ref="matauk"/>
+    <file name="juni201628574x387_2x.jpg" crc="386029677" seo="true" ref="matauk"/>
+    <file name="juni201629574x387.jpg" crc="3867961768" seo="true" ref="matauk"/>
+    <file name="juni201629574x387_2x.jpg" crc="4265011791" seo="true" ref="matauk"/>
+    <file name="juni201630574x387.jpg" crc="3890904021" seo="true" ref="matauk"/>
+    <file name="juni201630574x387_2x.jpg" crc="28260293" seo="true" ref="matauk"/>
     <file name="juni201617.jpg" crc="4232400675" seo="true" ref="lønn,-sierru"/>
     <file name="juni201617_2x.jpg" crc="3983992010" seo="true" ref="lønn,-sierru"/>
     <file name="juni201617773x521.jpg" crc="525710120" seo="true" ref="lønn,-sierru"/>
@@ -261,18 +263,18 @@
     <file name="juni201624574x387_2x.jpg" crc="4195580158" seo="true" ref="kristine-wathne"/>
     <file name="juni201625574x387.jpg" crc="4075011660" seo="true" ref="kristine-wathne"/>
     <file name="juni201625574x387_2x.jpg" crc="254858194" seo="true" ref="kristine-wathne"/>
-    <file name="instagram2_2x.png" crc="118730930" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="facebook2.png" crc="3896639647" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="facebook2_2x.png" crc="292859083" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="pil.png" crc="341152879" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
-    <file name="pil_2x.png" crc="55919202" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17"/>
+    <file name="instagram2_2x.png" crc="118730930" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="facebook2.png" crc="3896639647" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="facebook2_2x.png" crc="292859083" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:lønn,-sierru:kristine-wathne:kontakt:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="pil.png" crc="341152879" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
+    <file name="pil_2x.png" crc="55919202" seo="true" ref="index:wtf-tkm!:ici-ou-ailleurs:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:ambassadøren:fredrik-lund:marit:kristine-wathne:habibi:wild-things:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
     <file name="pil100x139.png" crc="4168100911" seo="true" ref="habibi"/>
     <file name="pil100x139_2x.png" crc="4060842805" seo="true" ref="habibi"/>
     <file name="pil77x108.png" crc="485537734" seo="true" ref="habibi"/>
     <file name="pil77x108_2x.png" crc="4137463436" seo="true" ref="habibi"/>
-    <file name="johannessunde-1.jpg" crc="3941215297" seo="true" ref="index"/>
-    <file name="johannessunde-1773x515.jpg" crc="238679370" seo="true" ref="index"/>
-    <file name="johannessunde-1574x383.jpg" crc="4272003614" seo="true" ref="index"/>
+    <file name="johannessunde-1.jpg" crc="3941215297" seo="true" ref="matauk"/>
+    <file name="johannessunde-1773x515.jpg" crc="238679370" seo="true" ref="matauk"/>
+    <file name="johannessunde-1574x383.jpg" crc="4272003614" seo="true" ref="matauk"/>
     <file name="ambassadøren-1_2x_2x.jpg" crc="373548936" seo="true" ref="ambassadøren"/>
     <file name="ambassadøren-2_2x_2x.jpg" crc="188701661" seo="true" ref="ambassadøren"/>
     <file name="ambassadøren-3_2x_2x.jpg" crc="468927808" seo="true" ref="ambassadøren"/>
@@ -674,22 +676,47 @@
     <file name="aw17_johanneslfsunde-018581x387_2x.jpg" crc="3797031126" seo="true" ref="oslo-runway-aw17"/>
     <file name="aw17_johanneslfsunde-019581x387.jpg" crc="421491397" seo="true" ref="oslo-runway-aw17"/>
     <file name="aw17_johanneslfsunde-019581x387_2x.jpg" crc="455423" seo="true" ref="oslo-runway-aw17"/>
+    <file name="august2017_.jpg" crc="3855975548" seo="true" ref="index"/>
+    <file name="august2017__2x.jpg" crc="397592346" seo="true" ref="index"/>
+    <file name="august2017_2.jpg" crc="101242495" seo="true" ref="index"/>
+    <file name="august2017_2_2x.jpg" crc="442388026" seo="true" ref="index"/>
+    <file name="august2017_3.jpg" crc="4246958965" seo="true" ref="index"/>
+    <file name="august2017_3_2x.jpg" crc="179646455" seo="true" ref="index"/>
+    <file name="august2017_4.jpg" crc="520752497" seo="true" ref="index"/>
+    <file name="august2017_4_2x.jpg" crc="4038920245" seo="true" ref="index"/>
+    <file name="august2017_773x521.jpg" crc="52920379" seo="true" ref="index"/>
+    <file name="august2017_773x521_2x.jpg" crc="4129609663" seo="true" ref="index"/>
+    <file name="august2017_2773x521.jpg" crc="27047197" seo="true" ref="index"/>
+    <file name="august2017_2773x521_2x.jpg" crc="3837567716" seo="true" ref="index"/>
+    <file name="august2017_3773x521.jpg" crc="4266491366" seo="true" ref="index"/>
+    <file name="august2017_3773x521_2x.jpg" crc="298322500" seo="true" ref="index"/>
+    <file name="august2017_4773x521.jpg" crc="1953765" seo="true" ref="index"/>
+    <file name="august2017_4773x521_2x.jpg" crc="186946249" seo="true" ref="index"/>
+    <file name="august2017_574x387.jpg" crc="410426712" seo="true" ref="index"/>
+    <file name="august2017_574x387_2x.jpg" crc="66148299" seo="true" ref="index"/>
+    <file name="august2017_2574x387.jpg" crc="3974293995" seo="true" ref="index"/>
+    <file name="august2017_2574x387_2x.jpg" crc="3989598064" seo="true" ref="index"/>
+    <file name="august2017_3574x387.jpg" crc="499029863" seo="true" ref="index"/>
+    <file name="august2017_3574x387_2x.jpg" crc="300021269" seo="true" ref="index"/>
+    <file name="august2017_4574x387.jpg" crc="91985211" seo="true" ref="index"/>
+    <file name="august2017_4574x387_2x.jpg" crc="288628554" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="70890894" seo="true" mt="1490212879916" redirect="true"/>
-  <file name="wtf-tkm!.html" crc="3883749237" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="435651143" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="ambassadøren.html" crc="4247124769" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="fredrik-lund.html" crc="262351323" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="marit.html" crc="4023997482" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="lønn,-sierru.html" crc="13047273" seo="true" mt="1490210425557" redirect="true"/>
-  <file name="kristine-wathne.html" crc="163484311" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="ici-ou-ailleurs.html" crc="3917264061" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="kontakt.html" crc="14497570" seo="true" mt="1490212946023" redirect="true"/>
-  <file name="habibi.html" crc="73326307" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="wild-things.html" crc="3821712508" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="oslo-runway-ss17.html" crc="4193099980" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="improvisasjon,-balletthøgskolen.html" crc="3864970821" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="arkitektstudentens-hjem.html" crc="4178317263" seo="true" mt="1490212452576" redirect="true"/>
-  <file name="brødrene-karamasov.html" crc="4126174608" seo="true" mt="1490210434520" redirect="true"/>
-  <file name="oslo-runway-aw17.html" crc="4075279620" seo="true" mt="1490211132288" redirect="true"/>
+  <file name="index.html" crc="4288292906" seo="true" mt="1504006893108" redirect="true"/>
+  <file name="wtf-tkm!.html" crc="4216734828" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="268611959" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="ambassadøren.html" crc="3980186029" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="fredrik-lund.html" crc="455592984" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="marit.html" crc="20100519" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="lønn,-sierru.html" crc="3944084345" seo="true" mt="1504005726223" redirect="true"/>
+  <file name="kristine-wathne.html" crc="390484307" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="ici-ou-ailleurs.html" crc="63869988" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="kontakt.html" crc="4291341066" seo="true" mt="1504005726223" redirect="true"/>
+  <file name="habibi.html" crc="3944300772" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="wild-things.html" crc="200828755" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="oslo-runway-ss17.html" crc="419661129" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="improvisasjon,-balletthøgskolen.html" crc="196127577" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="arkitektstudentens-hjem.html" crc="3933632532" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="brødrene-karamasov.html" crc="89277628" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="oslo-runway-aw17.html" crc="4064419423" seo="true" mt="1504005636583" redirect="true"/>
+  <file name="matauk.html" crc="461846155" seo="true" mt="1504005636583" redirect="true"/>
 </manifest>

@@ -1,20 +1,20 @@
 #u19209-5
 {
+	line-height: 18px;
 	font-size: 18px;
 	text-transform: none;
-	letter-spacing: 0px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	line-height: 18px;
-	background-color: transparent;
 	font-style: italic;
+	letter-spacing: 0px;
+	background-color: transparent;
 }
 
-#u17157-81
+#u17157-85
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	text-indent: -5px;
 	text-align: left;
 	background-color: transparent;
-	text-indent: -5px;
 }
 
 #u17157
@@ -31,6 +31,7 @@
 #u17157-7
 {
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-11
@@ -58,20 +59,20 @@
 	padding-left: 5px;
 }
 
-#u17157-28
+#u17157-31
 {
 	padding-left: 5px;
 }
 
-#u17157-30
+#u17157-32
 {
 	padding-left: 5px;
-	font-style: italic;
 }
 
 #u17157-34
 {
 	padding-left: 5px;
+	font-style: italic;
 }
 
 #u17157-38
@@ -89,15 +90,14 @@
 	padding-left: 5px;
 }
 
-#u17157-47
+#u17157-50
 {
 	padding-left: 5px;
 }
 
-#u17157-49
+#u17157-51
 {
 	padding-left: 5px;
-	font-style: italic;
 }
 
 #u17157-53
@@ -112,14 +112,15 @@
 	font-style: italic;
 }
 
-#u17157-50,#u17157-54
-{
-	font-style: normal;
-}
-
 #u17157-61
 {
 	padding-left: 5px;
+	font-style: italic;
+}
+
+#u17157-4,#u17157-54,#u17157-58
+{
+	font-style: normal;
 }
 
 #u17157-65
@@ -137,12 +138,12 @@
 	padding-left: 5px;
 }
 
-#u17157-74
+#u17157-77
 {
 	padding-left: 5px;
 }
 
-#u17157-75
+#u17157-78
 {
 	padding-left: 5px;
 }
@@ -152,21 +153,26 @@
 	padding-left: 5px;
 }
 
+#u17157-83
+{
+	padding-left: 5px;
+}
+
 #u19629-4
 {
+	line-height: 12px;
 	color: #7F7F7F;
 	text-align: center;
-	line-height: 12px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-size: 12px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	background-color: transparent;
 }
 
 #u17156,#u17160
 {
+	border-color: transparent;
 	border-width: 0px;
 	background-color: transparent;
-	border-color: transparent;
 }
 
 #u17164,#u17158

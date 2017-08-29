@@ -129,12 +129,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-a,.ZilchNadaZip a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .ZilchNadaZip a:link
 {
 	color: #000000;
