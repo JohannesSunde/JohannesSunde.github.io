@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1504257086287">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.johannessunde.com" resolutions="1x,2x" timestamp="1504257991964">
   <folder name="css">
     <file name="site_global.css" crc="3873840565"/>
     <file name="master_a-mal.css" crc="3775911154" ref="index:fredrik-lund:ambassadøren:marit:det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet:wtf-tkm!:kristine-wathne:ici-ou-ailleurs:wild-things:habibi:oslo-runway-ss17:improvisasjon,-balletthøgskolen:arkitektstudentens-hjem:brødrene-karamasov:oslo-runway-aw17:matauk"/>
@@ -701,7 +701,7 @@
     <file name="august2017_4574x387.jpg" crc="91985211" seo="true" ref="index"/>
     <file name="august2017_4574x387_2x.jpg" crc="288628554" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="482481755" seo="true" mt="1504257062294" redirect="true"/>
+  <file name="index.html" crc="3892217707" seo="true" mt="1504257406158" redirect="true"/>
   <file name="wtf-tkm!.html" crc="4216734828" seo="true" mt="1504005636583" redirect="true"/>
   <file name="det-er-bedre-å-kappe-det-av-enn-å-gå-gjennom-livet.html" crc="268611959" seo="true" mt="1504005636583" redirect="true"/>
   <file name="ambassadøren.html" crc="3980186029" seo="true" mt="1504005636583" redirect="true"/>
