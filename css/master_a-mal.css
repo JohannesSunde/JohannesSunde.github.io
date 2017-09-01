@@ -1,20 +1,20 @@
 #u14302-5
 {
-	line-height: 18px;
-	font-size: 18px;
-	text-transform: none;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-style: italic;
 	letter-spacing: 0px;
 	background-color: transparent;
+	font-size: 18px;
+	line-height: 18px;
+	text-transform: none;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u114-85
 {
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
-	text-indent: -5px;
 	text-align: left;
 	background-color: transparent;
+	text-indent: -5px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u114
@@ -24,14 +24,14 @@
 
 #u114-3
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-7
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-11
@@ -71,8 +71,8 @@
 
 #u114-34
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-38
@@ -102,20 +102,20 @@
 
 #u114-53
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-57
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-61
 {
-	padding-left: 5px;
 	font-style: italic;
+	padding-left: 5px;
 }
 
 #u114-4,#u114-54,#u114-58
@@ -160,18 +160,18 @@
 
 #u19225-4
 {
-	line-height: 14px;
 	color: #7F7F7F;
-	text-align: center;
-	font-size: 12px;
-	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	background-color: transparent;
+	font-size: 12px;
+	text-align: center;
+	line-height: 14px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
 #u14103,#u2439
 {
-	border-color: transparent;
 	border-width: 0px;
+	border-color: transparent;
 	background-color: transparent;
 }
 
