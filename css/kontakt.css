@@ -1,7 +1,7 @@
 .version.kontakt /* version checker */
 {
-	color: #0000EB;
-	background-color: #015F28;
+	color: #00001C;
+	background-color: #F28F2B;
 }
 
 #u17164
@@ -9,7 +9,7 @@
 	bottom: 20px;
 	width: 25px;
 	right: 55px;
-	z-index: 89;
+	z-index: 93;
 	position: fixed;
 }
 
@@ -18,36 +18,36 @@
 	bottom: 20px;
 	width: 25px;
 	right: 20px;
-	z-index: 91;
+	z-index: 95;
 	position: fixed;
 }
 
 #page
 {
-	background-color: transparent;
-	margin-right: auto;
 	border-width: 0px;
-	margin-left: auto;
-	border-color: #000000;
 	width: 100%;
 	z-index: 1;
+	background-color: transparent;
 	background-image: none;
+	margin-left: auto;
+	border-color: #000000;
+	margin-right: auto;
 }
 
 #pu19209-5
 {
 	width: 0.01px;
-	margin-right: -10000px;
 	margin-left: 20px;
+	margin-right: -10000px;
 }
 
 #u19209-5
 {
+	z-index: 97;
 	position: relative;
-	z-index: 93;
 }
 
-#u17157-85
+#u17157-89
 {
 	width: 187px;
 	z-index: 3;
@@ -57,37 +57,37 @@
 #u19629-4
 {
 	left: 50%;
+	z-index: 122;
 	position: fixed;
-	z-index: 118;
 	min-height: 11px;
 }
 
 #u17156
 {
+	z-index: 2;
+	margin-right: -10000px;
 	position: relative;
 	min-height: 80px;
 	width: 99px;
 	margin-top: 20px;
-	z-index: 2;
-	margin-right: -10000px;
 }
 
 #u17160
 {
+	z-index: 92;
+	margin-right: -10000px;
 	position: relative;
 	min-height: 35px;
 	width: 35px;
-	z-index: 88;
-	margin-right: -10000px;
 }
 
 #u15689-20
 {
 	text-align: center;
-	position: relative;
-	z-index: 98;
-	margin-right: -10000px;
+	z-index: 102;
 	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
 }
 
 #u15689,#u15689-2,#u15689-3,#u15689-4,#u15689-5,#u15689-6,#u15689-7,#u15689-8,#u15689-9,#u15689-10,#u15689-14,#u15689-15
@@ -97,8 +97,8 @@
 
 #u17164_img
 {
-	margin-right: -1px;
 	margin-left: 1px;
+	margin-right: -1px;
 }
 
 #u17158_img
@@ -132,8 +132,8 @@ body
 
 	#page
 	{
-		min-height: 609px;
-		padding-bottom: 211px;
+		min-height: 626px;
+		padding-bottom: 194px;
 		max-width: 1345px;
 	}
 
@@ -148,7 +148,7 @@ body
 		min-height: 35px;
 	}
 
-	#u17157-85
+	#u17157-89
 	{
 		min-height: 358px;
 		margin-top: 8px;
@@ -196,8 +196,8 @@ body
 
 	#page
 	{
-		min-height: 593px;
-		padding-bottom: 225px;
+		min-height: 610px;
+		padding-bottom: 208px;
 		max-width: 1294px;
 	}
 
@@ -213,7 +213,7 @@ body
 		min-height: 35px;
 	}
 
-	#u17157-85
+	#u17157-89
 	{
 		min-height: 401px;
 	}
@@ -260,8 +260,8 @@ body
 
 	#page
 	{
-		min-height: 593px;
-		padding-bottom: 227px;
+		min-height: 610px;
+		padding-bottom: 210px;
 		max-width: 1000px;
 	}
 
@@ -277,7 +277,7 @@ body
 		min-height: 50px;
 	}
 
-	#u17157-85
+	#u17157-89
 	{
 		min-height: 403px;
 	}
